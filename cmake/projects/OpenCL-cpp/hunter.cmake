@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     "2.0.10-p0"
     URL
-   "https://github.com/hunter-packages/OpenCL-CLHPP/archive/2.0.10-p0.tar.gz"
+   "https://github.com/cpp-pm/OpenCL-CLHPP/archive/2.0.10-p0.tar.gz"
     SHA1
     78a41a5b5e40b9e1cdfb794df446fb4d05edfe42
 )
