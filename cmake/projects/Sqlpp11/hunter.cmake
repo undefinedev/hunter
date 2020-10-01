@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.57-p0
     URL
-    https://github.com/hunter-packages/sqlpp11/archive/v0.57-p0.tar.gz
+    https://github.com/cpp-pm/sqlpp11/archive/v0.57-p0.tar.gz
     SHA1
     472f23489f9a063d2b9a492910ea59a36bc55263
 )
