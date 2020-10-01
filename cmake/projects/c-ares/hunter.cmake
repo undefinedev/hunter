@@ -16,7 +16,7 @@ hunter_add_version(
 hunter_add_version(
     PACKAGE_NAME c-ares
     VERSION "1.14.0-p0"
-    URL "https://github.com/hunter-packages/c-ares/archive/v1.14.0-p0.tar.gz"
+    URL "https://github.com/cpp-pm/c-ares/archive/v1.14.0-p0.tar.gz"
     SHA1 "4708595fb0eb053a3ca8160cdd579ff626408973")
 
 if(ANDROID OR IOS)
