@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     2.1.2-p1
     URL
-    "https://github.com/hunter-packages/gflags/archive/v2.1.2-p1.tar.gz"
+    "https://github.com/cpp-pm/gflags/archive/v2.1.2-p1.tar.gz"
     SHA1
     24cfd7c456193fda187db993075b3c2b15b4f2c9
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     2.1.2-p0
     URL
-    "https://github.com/hunter-packages/gflags/archive/v2.1.2-p0.tar.gz"
+    "https://github.com/cpp-pm/gflags/archive/v2.1.2-p0.tar.gz"
     SHA1
     113255cba87b6af61663014f446e2d69d0d2bc3a
 )
