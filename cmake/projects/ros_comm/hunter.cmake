@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     1.14.3-p1
     URL
-    "https://github.com/hunter-packages/ros_comm/archive/v1.14.3-p1.tar.gz"
+    "https://github.com/cpp-pm/ros_comm/archive/v1.14.3-p1.tar.gz"
     SHA1
     132f614a7ce4d5765ecdba8cc31c7f3504ef046f
 )
