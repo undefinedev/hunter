@@ -13,7 +13,7 @@ hunter_add_version(
     VERSION
     "6.0.1-p0"
     URL
-    "https://github.com/hunter-packages/clang/archive/v6.0.1-p0.tar.gz"
+    "https://github.com/cpp-pm/clang/archive/v6.0.1-p0.tar.gz"
     SHA1
     b74a5f7b4fe4308d3c67413d2826aa3adf44411a
 )
@@ -24,7 +24,7 @@ hunter_add_version(
     VERSION
     "4.0.1-p0"
     URL
-    "https://github.com/hunter-packages/clang/archive/v4.0.1-p0.tar.gz"
+    "https://github.com/cpp-pm/clang/archive/v4.0.1-p0.tar.gz"
     SHA1
     cc2e74c852f57c946a4337812c73ce1bc97d639f
 )
@@ -35,7 +35,7 @@ hunter_add_version(
     VERSION
     "3.6.2-p0"
     URL
-    "https://github.com/hunter-packages/clang/archive/v3.6.2-p0.tar.gz"
+    "https://github.com/cpp-pm/clang/archive/v3.6.2-p0.tar.gz"
     SHA1
     a83fb5364829f3836cbf0104cb54500359d4ea8c
 )
