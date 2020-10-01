@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     0.0.1-p0
     URL
-    "https://github.com/hunter-packages/stdext-path/archive/v0.0.1-p0.tar.gz"
+    "https://github.com/cpp-pm/stdext-path/archive/v0.0.1-p0.tar.gz"
     SHA1
     154e7497854fc8fa6e604d4b351902f69824e110
 )
