@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     vcpkg5-p
     URL
-    "https://github.com/hunter-packages/range-v3/archive/vcpkg5-p.tar.gz"
+    "https://github.com/cpp-pm/range-v3/archive/vcpkg5-p.tar.gz"
     SHA1
     d8b723b955d7c92d3734fead371538d11cf73452
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     0.3.0-p
     URL
-    "https://github.com/hunter-packages/range-v3/archive/0.3.0-p.tar.gz"
+    "https://github.com/cpp-pm/range-v3/archive/0.3.0-p.tar.gz"
     SHA1
     d2b3c31c66c4c7d0b11798e370af4e1e372a307b
 )
@@ -37,7 +37,7 @@ hunter_add_version(
     VERSION
     0.4.0-01ccd0e5-p0
     URL
-    "https://github.com/hunter-packages/range-v3/archive/0.4.0-01ccd0e5-p0.tar.gz"
+    "https://github.com/cpp-pm/range-v3/archive/0.4.0-01ccd0e5-p0.tar.gz"
     SHA1
     7ae50752d40beb489935b73d521c14b4c147cfd5
 )
