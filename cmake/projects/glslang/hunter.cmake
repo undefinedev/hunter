@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     7.7.2767-p0
     URL
-    "https://github.com/hunter-packages/glslang/archive/v7.7.2767-p0.tar.gz"
+    "https://github.com/cpp-pm/glslang/archive/v7.7.2767-p0.tar.gz"
     SHA1
     44d6157e5bf6005f1f611bcea323488e6268d9c9
 )
