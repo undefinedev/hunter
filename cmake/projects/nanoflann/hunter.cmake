@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     1.2.3-p0
     URL
-    "https://github.com/hunter-packages/nanoflann/archive/v1.2.3-p0.tar.gz"
+    "https://github.com/cpp-pm/nanoflann/archive/v1.2.3-p0.tar.gz"
     SHA1
     72a42a31056aab380eac09b9f00dab18e91235b8
     )
