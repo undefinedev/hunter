@@ -19,7 +19,7 @@ hunter_add_version(
     VERSION
     "3.2.1"
     URL
-    "https://github.com/hunter-packages/clapack/archive/v3.2.1.tar.gz"
+    "https://github.com/cpp-pm/clapack/archive/v3.2.1.tar.gz"
     SHA1
     f4410074450a6f733e47e2b6a9b5cc79e7d7c22f
 )
