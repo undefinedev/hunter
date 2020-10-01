@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     2.7-p1
     URL
-    "https://github.com/hunter-packages/kNet/archive/v2.7-p1.tar.gz"
+    "https://github.com/cpp-pm/kNet/archive/v2.7-p1.tar.gz"
     SHA1
     3a7bc8c9f9f14ffbfac4ce5328fa6735544b51c8
 )
