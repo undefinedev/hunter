@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     "3.0.2-p0"
     URL
-    "https://github.com/hunter-packages/glbinding/archive/v3.0.2-p0.tar.gz"
+    "https://github.com/cpp-pm/glbinding/archive/v3.0.2-p0.tar.gz"
     SHA1
     ef0a1585db171f8321aa620699391d1641443989
 )
@@ -38,7 +38,7 @@ hunter_add_version(
     VERSION
     "2.1.3-p0"
     URL
-    "https://github.com/hunter-packages/glbinding/archive/v2.1.3-p0.tar.gz"
+    "https://github.com/cpp-pm/glbinding/archive/v2.1.3-p0.tar.gz"
     SHA1
     7bb774ee35f63e7f769d4f4ae6194cbc3f8afe16
 )
