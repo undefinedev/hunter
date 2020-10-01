@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     1.0.1
     URL
-    "https://github.com/hunter-packages/hunter_venv/archive/v1.0.1.tar.gz"
+    "https://github.com/cpp-pm/hunter_venv/archive/v1.0.1.tar.gz"
     SHA1
     e15dd948ab070960538ec6918bb4c64296174f14
 )
