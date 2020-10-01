@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.6.9-p0
     URL
-    "https://github.com/hunter-packages/roscpp_core/archive/v0.6.9-p0.tar.gz"
+    "https://github.com/cpp-pm/roscpp_core/archive/v0.6.9-p0.tar.gz"
     SHA1
     "22a95f07bc397c188eba1b578ddbbe5ae114c82c"
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     0.6.12-p0
     URL
-    "https://github.com/hunter-packages/roscpp_core/archive/v0.6.12-p0.tar.gz"
+    "https://github.com/cpp-pm/roscpp_core/archive/v0.6.12-p0.tar.gz"
     SHA1
     "1d45d6ddc003f81a8390d618a471842383fd2047"
 )
