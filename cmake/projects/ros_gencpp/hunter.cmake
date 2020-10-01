@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.6.0-p0
     URL
-    "https://github.com/hunter-packages/ros_gencpp/archive/v0.6.0-p0.tar.gz"
+    "https://github.com/cpp-pm/ros_gencpp/archive/v0.6.0-p0.tar.gz"
     SHA1
     "90c7728fae3f69c8072a9611b9ec1f92b3254bd1"
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     0.6.2-p0
     URL
-    "https://github.com/hunter-packages/ros_gencpp/archive/v0.6.2-p0.tar.gz"
+    "https://github.com/cpp-pm/ros_gencpp/archive/v0.6.2-p0.tar.gz"
     SHA1
     "be49ad6ad32cd8879fdd418fe2cc0c10db9a7d45"
 )
