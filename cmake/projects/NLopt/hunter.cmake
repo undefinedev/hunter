@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     2.5.0-p0
     URL
-    "https://github.com/hunter-packages/nlopt/archive/v2.5.0-p0.tar.gz"
+    "https://github.com/cpp-pm/nlopt/archive/v2.5.0-p0.tar.gz"
     SHA1
     30838bcdc191b6dae8af1d0e8f704fe51a0ad3ef
 )
