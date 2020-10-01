@@ -10,7 +10,7 @@ hunter_add_version(
     VERSION
     "3.3.1-p1"
     URL
-    "https://github.com/hunter-packages/sleef/archive/v3.3.1-p1.tar.gz"
+    "https://github.com/cpp-pm/sleef/archive/v3.3.1-p1.tar.gz"
     SHA1
     f6b40d51d72dc32ef7124b3564c334da5122d9c4
 )
