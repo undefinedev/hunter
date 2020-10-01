@@ -9,7 +9,7 @@ include(hunter_pick_scheme)
 hunter_add_version(
     PACKAGE_NAME gumbo
     VERSION "0.10.1"
-    URL "https://github.com/hunter-packages/gumbo-parser/archive/hunter-0.10.1.tar.gz"
+    URL "https://github.com/cpp-pm/gumbo-parser/archive/hunter-0.10.1.tar.gz"
     SHA1 "0b060d7b67f605fc2c06a2c474fbd00ad5c48b18")
 
 hunter_cmake_args(gumbo CMAKE_ARGS BUILD_TESTING=OFF)
