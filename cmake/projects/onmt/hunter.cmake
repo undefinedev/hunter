@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.4.1-p0
     URL
-    "https://github.com/hunter-packages/onmt/archive/v0.4.1-p0.tar.gz"
+    "https://github.com/cpp-pm/onmt/archive/v0.4.1-p0.tar.gz"
     SHA1
     a691a53a695135cd38d85042bafacf734b3e6a5a
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     0.4.1-p2
     URL
-    "https://github.com/hunter-packages/onmt/archive/v0.4.1-p2.tar.gz"
+    "https://github.com/cpp-pm/onmt/archive/v0.4.1-p2.tar.gz"
     SHA1
     a0b6cf26304e8049d7e8d68b0c80fc757fc0504a
 )
