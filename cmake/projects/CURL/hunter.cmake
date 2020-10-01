@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     "7.49.1-DEV-v4"
     URL
-    "https://github.com/hunter-packages/curl/archive/hunter-7.49.1-v4.tar.gz"
+    "https://github.com/cpp-pm/curl/archive/hunter-7.49.1-v4.tar.gz"
     SHA1
     1b17954403db625d5422faf8c7fd68b5dde093f9
 )
@@ -27,7 +27,7 @@ hunter_add_version(
     VERSION
     "7.49.1-DEV-v5"
     URL
-    "https://github.com/hunter-packages/curl/archive/hunter-7.49.1-v5.tar.gz"
+    "https://github.com/cpp-pm/curl/archive/hunter-7.49.1-v5.tar.gz"
     SHA1
     159d73e83f6cde54469c838234d32ed917ec9b80
 )
@@ -38,7 +38,7 @@ hunter_add_version(
     VERSION
     "7.49.1-DEV-v8"
     URL
-    "https://github.com/hunter-packages/curl/archive/hunter-7.49.1-v8.tar.gz"
+    "https://github.com/cpp-pm/curl/archive/hunter-7.49.1-v8.tar.gz"
     SHA1
     3ac2684e3274c17ca209731e121e9a0acc79e4a5
 )
@@ -49,7 +49,7 @@ hunter_add_version(
     VERSION
     "7.49.1-DEV-v9"
     URL
-    "https://github.com/hunter-packages/curl/archive/hunter-7.49.1-v9.tar.gz"
+    "https://github.com/cpp-pm/curl/archive/hunter-7.49.1-v9.tar.gz"
     SHA1
     4d4cb6e5faebfceaafa152bb3572c4760f1745cf
 )
@@ -60,7 +60,7 @@ hunter_add_version(
     VERSION
     "7.59.0-p0"
     URL
-    "https://github.com/hunter-packages/curl/archive/v7.59.0-p0.tar.gz"
+    "https://github.com/cpp-pm/curl/archive/v7.59.0-p0.tar.gz"
     SHA1
     55c76e06ec28c5641cd5c2f9d1b6666d25362c5b
 )
@@ -71,7 +71,7 @@ hunter_add_version(
     VERSION
     "7.59.0-p1"
     URL
-    "https://github.com/hunter-packages/curl/archive/v7.59.0-p1.tar.gz"
+    "https://github.com/cpp-pm/curl/archive/v7.59.0-p1.tar.gz"
     SHA1
     7d8190ad978591d621db1066b96f90722d68a00d
 )
@@ -82,7 +82,7 @@ hunter_add_version(
     VERSION
     "7.60.0-p0"
     URL
-    "https://github.com/hunter-packages/curl/archive/v7.60.0-p0.tar.gz"
+    "https://github.com/cpp-pm/curl/archive/v7.60.0-p0.tar.gz"
     SHA1
     53b5065094322323ed38840012eee42c5d4d1640
 )
@@ -93,7 +93,7 @@ hunter_add_version(
     VERSION
     "7.60.0-p2"
     URL
-    "https://github.com/hunter-packages/curl/archive/v7.60.0-p2.tar.gz"
+    "https://github.com/cpp-pm/curl/archive/v7.60.0-p2.tar.gz"
     SHA1
     c15efe3c6c77c5f5d5b098b73d31cc3fbbc0d2fc
 )
