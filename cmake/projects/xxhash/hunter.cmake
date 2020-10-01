@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     0.6.5-p0
     URL
-    "https://github.com/hunter-packages/xxHash/archive/0.6.5-p0.tar.gz"
+    "https://github.com/cpp-pm/xxHash/archive/0.6.5-p0.tar.gz"
     SHA1
     7d84575a45360d5c5c075ceb3fc1eb6b334aa5a4
 )
