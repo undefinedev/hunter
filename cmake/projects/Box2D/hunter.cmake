@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     2.3.1-p0
     URL
-    "https://github.com/hunter-packages/Box2D/archive/v2.3.1-p0.tar.gz"
+    "https://github.com/cpp-pm/Box2D/archive/v2.3.1-p0.tar.gz"
     SHA1
     5e34dad2674c65d5c79d2a23abcd881da1af90b9
 )
