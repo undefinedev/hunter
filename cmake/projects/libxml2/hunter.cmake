@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     "2.9.7-p0"
     URL
-    "https://github.com/hunter-packages/libxml2/archive/v2.9.7-p0.tar.gz"
+    "https://github.com/cpp-pm/libxml2/archive/v2.9.7-p0.tar.gz"
     SHA1
     5d5d6da2a87267f160f76a26c5637cbc48b28784
 )
