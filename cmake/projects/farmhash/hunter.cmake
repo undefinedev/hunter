@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     1.1
     URL
-    https://github.com/hunter-packages/farmhash/archive/v1.1.tar.gz
+    https://github.com/cpp-pm/farmhash/archive/v1.1.tar.gz
     SHA1
     d2f911dc4fa72af2a6ff82c2ca372c7b0f05493d
     )
