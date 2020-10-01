@@ -13,7 +13,7 @@ hunter_add_version(
     VERSION
     "0.0.3-hunter"
     URL
-    "https://github.com/hunter-packages/asyncplusplus/archive/v0.0.3-hunter.tar.gz"
+    "https://github.com/cpp-pm/asyncplusplus/archive/v0.0.3-hunter.tar.gz"
     SHA1
     1d3cfdde4b18547eace113cdf7ac670fb6a2c420
 )
