@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     1.3.4-p0
     URL
-    "https://github.com/hunter-packages/draco/archive/v1.3.4-p0.tar.gz"
+    "https://github.com/cpp-pm/draco/archive/v1.3.4-p0.tar.gz"
     SHA1
     64cd8ac43fc213ad4cb088aa7bba190adb87bb5d
 )
