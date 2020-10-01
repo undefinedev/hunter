@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "1.2.0-p0"
     URL
-    "https://github.com/hunter-packages/log4cplus/archive/v1.2.0-p0.tar.gz"
+    "https://github.com/cpp-pm/log4cplus/archive/v1.2.0-p0.tar.gz"
     SHA1
     86950f3b471e2115972cba85aa548c41597664c4
 )
