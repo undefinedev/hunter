@@ -11,7 +11,7 @@ hunter_add_version(
     VERSION
     "2.0.3"
     URL
-    "https://github.com/hunter-packages/FakeIt/archive/2.0.3-hunter.tar.gz"
+    "https://github.com/cpp-pm/FakeIt/archive/2.0.3-hunter.tar.gz"
     SHA1
     9ac096c5d990bc8b8d8d8b0ac6b4902c21928a22
 )
