@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.5.10-p0
     URL
-    "https://github.com/hunter-packages/ros_genmsg/archive/v0.5.10-p0.tar.gz"
+    "https://github.com/cpp-pm/ros_genmsg/archive/v0.5.10-p0.tar.gz"
     SHA1
     "3003f752c6b9d5a6c5771dd1448b61011cfcc63d"
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     0.5.12-p0
     URL
-    "https://github.com/hunter-packages/ros_genmsg/archive/v0.5.12-p0.tar.gz"
+    "https://github.com/cpp-pm/ros_genmsg/archive/v0.5.12-p0.tar.gz"
     SHA1
     "e4009ea247bfb3683700f0e3097fc1b9a884a378"
 )
