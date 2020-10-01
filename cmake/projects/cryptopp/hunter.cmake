@@ -12,7 +12,7 @@ hunter_add_version(
     VERSION
     "8.2.0-p0"
     URL
-    "https://github.com/hunter-packages/cryptopp/archive/v8.2.0-p0.tar.gz"
+    "https://github.com/cpp-pm/cryptopp/archive/v8.2.0-p0.tar.gz"
     SHA1
     38a70c9ba970cc862b5cca0010fffdd4e56afcae
 )
@@ -23,7 +23,7 @@ hunter_add_version(
     VERSION
     "5.6.5-p0"
     URL
-    "https://github.com/hunter-packages/cryptopp/archive/v5.6.5-p0.tar.gz"
+    "https://github.com/cpp-pm/cryptopp/archive/v5.6.5-p0.tar.gz"
     SHA1
     4258c9b49c48c433c4aa63629bc896ac9a3902e3
 )
