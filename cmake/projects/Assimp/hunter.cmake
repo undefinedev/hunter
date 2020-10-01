@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     3.2-p1
     URL
-    "https://github.com/hunter-packages/assimp/archive/v3.2-p1.tar.gz"
+    "https://github.com/cpp-pm/assimp/archive/v3.2-p1.tar.gz"
     SHA1
     018ce1cc19f0cf89dd5157cfbfa1c2925eab6926
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     3.2-p0
     URL
-    "https://github.com/hunter-packages/assimp/archive/v3.2-p0.tar.gz"
+    "https://github.com/cpp-pm/assimp/archive/v3.2-p0.tar.gz"
     SHA1
     a3f46eb24bc48cacee9f21b1ea4f4a0e3122b847
 )
@@ -37,7 +37,7 @@ hunter_add_version(
     VERSION
     3.2-p2
     URL
-    "https://github.com/hunter-packages/assimp/archive/v3.2-p2.tar.gz"
+    "https://github.com/cpp-pm/assimp/archive/v3.2-p2.tar.gz"
     SHA1
     7b745fc73c28073d7bdcaa18f994c39636c27776
 )
