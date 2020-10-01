@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "1.1.0-p0"
     URL
-    "https://github.com/hunter-packages/globjects/archive/v1.1.0-p0.tar.gz"
+    "https://github.com/cpp-pm/globjects/archive/v1.1.0-p0.tar.gz"
     SHA1
     c20c8f9c384802be99b8449b447c0620c603b027
 )
