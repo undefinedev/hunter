@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     1.1-696803b-p0
     URL
-    "https://github.com/hunter-packages/mshadow/archive/v1.1-696803b-p0.tar.gz"
+    "https://github.com/cpp-pm/mshadow/archive/v1.1-696803b-p0.tar.gz"
     SHA1
     34429211cc841afbde7f8f36994501836a36eb6f
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     1.1-1d79ecf-p0
     URL
-    "https://github.com/hunter-packages/mshadow/archive/v1.1-1d79ecf-p0.tar.gz"
+    "https://github.com/cpp-pm/mshadow/archive/v1.1-1d79ecf-p0.tar.gz"
     SHA1
     45e424dc081ccd02f61ab58b59030e3da3890a8a
 )
