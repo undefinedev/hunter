@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "0.1.6-p5"
     URL
-    "https://github.com/hunter-packages/GPUImage/archive/v0.1.6-p5.tar.gz"
+    "https://github.com/cpp-pm/GPUImage/archive/v0.1.6-p5.tar.gz"
     SHA1
     69a287016c57ca02012faf973e2eabda4ec87123
 )
@@ -37,7 +37,7 @@ hunter_add_version(
     VERSION
     "0.1.6-p9"
     URL
-    "https://github.com/hunter-packages/GPUImage/archive/v0.1.6-p9.tar.gz"
+    "https://github.com/cpp-pm/GPUImage/archive/v0.1.6-p9.tar.gz"
     SHA1
     ab3b4785d5767031d545e65ebe12a0910b5ef6b2
 )
