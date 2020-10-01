@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     0.0.1
     URL
-    "https://github.com/hunter-packages/mojoshader/archive/v0.0.1.tar.gz"
+    "https://github.com/cpp-pm/mojoshader/archive/v0.0.1.tar.gz"
     SHA1
     177e1a81bf0fe0253ee111ca679b69c61685e79c
 )
