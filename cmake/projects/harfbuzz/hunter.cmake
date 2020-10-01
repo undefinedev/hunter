@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     1.7.6-p0
     URL
-    "https://github.com/hunter-packages/harfbuzz/archive/v1.7.6-p0.tar.gz"
+    "https://github.com/cpp-pm/harfbuzz/archive/v1.7.6-p0.tar.gz"
     SHA1
     11102ba60b34a12e1fd31b3bbd18e0a61f5f6ba1
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     1.7.6-p1
     URL
-    "https://github.com/hunter-packages/harfbuzz/archive/v1.7.6-p1.tar.gz"
+    "https://github.com/cpp-pm/harfbuzz/archive/v1.7.6-p1.tar.gz"
     SHA1
     adec471f56a305970a071f7ab10803012660cf79
 )
@@ -37,7 +37,7 @@ hunter_add_version(
     VERSION
     1.7.6-p2
     URL
-    "https://github.com/hunter-packages/harfbuzz/archive/v1.7.6-p2.tar.gz"
+    "https://github.com/cpp-pm/harfbuzz/archive/v1.7.6-p2.tar.gz"
     SHA1
     105c15b2c0c56e6dc13b0dda0915f759231dfb0c
 )
