@@ -10,7 +10,7 @@ include(hunter_download)
 include(hunter_pick_scheme)
 
 # Tags v1.3.3 and v2.0.0 are the same:
-# - https://github.com/hunter-packages/libigl/pull/1#issuecomment-495176368
+# - https://github.com/cpp-pm/libigl/pull/1#issuecomment-495176368
 hunter_add_version(
     PACKAGE_NAME
     libigl
@@ -28,7 +28,7 @@ hunter_add_version(
     VERSION
     2.0.0-e33f534-p0
     URL
-    "https://github.com/hunter-packages/libigl/archive/v1.3.3-e33f534-p0.tar.gz"
+    "https://github.com/cpp-pm/libigl/archive/v1.3.3-e33f534-p0.tar.gz"
     SHA1
     b94120a61fd5c6320edc7a79f14a37877527767d
 )
@@ -39,7 +39,7 @@ hunter_add_version(
     VERSION
     2.0.0-e33f534-p1
     URL
-    "https://github.com/hunter-packages/libigl/archive/v1.3.3-e33f534-p1.tar.gz"
+    "https://github.com/cpp-pm/libigl/archive/v1.3.3-e33f534-p1.tar.gz"
     SHA1
     24637b17fb4700db898099fb6f21e8425ea08a30
 )
