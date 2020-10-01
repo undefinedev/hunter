@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     "0.8.0-p3"
     URL
-    "https://github.com/hunter-packages/dest/archive/v0.8.0-p3.tar.gz"
+    "https://github.com/cpp-pm/dest/archive/v0.8.0-p3.tar.gz"
     SHA1
     8ba961af7c59548cee4dad8ebef042d9eb5bf581
     )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     "0.8.0-p4"
     URL
-    "https://github.com/hunter-packages/dest/archive/v0.8.0-p4.tar.gz"
+    "https://github.com/cpp-pm/dest/archive/v0.8.0-p4.tar.gz"
     SHA1
     36e9e2fef97b91811e346d0eec46e54bcd87e35a
     )
