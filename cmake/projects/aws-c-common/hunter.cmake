@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     0.2.1-p0
     URL
-    "https://github.com/hunter-packages/aws-c-common/archive/v0.2.1-p0.tar.gz"
+    "https://github.com/cpp-pm/aws-c-common/archive/v0.2.1-p0.tar.gz"
     SHA1
     65cf17a47d77054a4c043ef9c59978c872f8ed3d
 )
