@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     "10.0.0"
     URL
-    "https://github.com/hunter-packages/PostgreSQL/archive/PostgreSQL-10.0.0.tar.gz"
+    "https://github.com/cpp-pm/PostgreSQL/archive/PostgreSQL-10.0.0.tar.gz"
     SHA1
     d35d4e958509460347f39f0ba542a17eb2228f3c
 )
@@ -27,7 +27,7 @@ hunter_add_version(
     VERSION
     "9.6.3"
     URL
-    "https://github.com/hunter-packages/PostgreSQL/archive/PostgreSQL-9.6.3.tar.gz"
+    "https://github.com/cpp-pm/PostgreSQL/archive/PostgreSQL-9.6.3.tar.gz"
     SHA1
     103d31238ef688295960082619968bda4aa01163
 )
@@ -38,7 +38,7 @@ hunter_add_version(
     VERSION
     "9.5.0"
     URL
-    "https://github.com/hunter-packages/PostgreSQL/archive/PostgreSQL-9.5.0.tar.gz"
+    "https://github.com/cpp-pm/PostgreSQL/archive/PostgreSQL-9.5.0.tar.gz"
     SHA1
     b82ddcee4644ef42f3a69ee93916afa448d178c4
 )
