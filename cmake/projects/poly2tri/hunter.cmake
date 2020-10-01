@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     "1.0.0"
     URL
-    "https://github.com/hunter-packages/poly2tri/archive/v1.0.0.tar.gz"
+    "https://github.com/cpp-pm/poly2tri/archive/v1.0.0.tar.gz"
     SHA1
     6ac163c6eedc5f4d533c6e2cf8ea209a72f7a643
 )
