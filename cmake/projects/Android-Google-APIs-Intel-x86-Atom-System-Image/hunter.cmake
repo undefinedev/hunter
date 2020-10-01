@@ -10,7 +10,7 @@ include(hunter_pick_scheme)
 # From: https://dl.google.com/android/repository/sys-img/google_apis/sys-img.xml
 
 # Version should match regex '[0-9]+_r[0-9]+'
-# Used by https://github.com/hunter-packages/android-sdk
+# Used by https://github.com/cpp-pm/android-sdk
 
 hunter_add_version(
     PACKAGE_NAME
