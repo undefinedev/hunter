@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     1.5.2-d68a667-p0
     URL
-    "https://github.com/hunter-packages/libzip/archive/v1.5.2-d68a667-p0.tar.gz"
+    "https://github.com/cpp-pm/libzip/archive/v1.5.2-d68a667-p0.tar.gz"
     SHA1
     c3fce63f125fe5a50103d9f20846ca2a269439b7
 )
