@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "3.05.01-hunter-3"
     URL
-    "https://github.com/hunter-packages/tesseract/archive/v3.05.01-hunter-3.tar.gz"
+    "https://github.com/cpp-pm/tesseract/archive/v3.05.01-hunter-3.tar.gz"
     SHA1
     0ccf9537a17634448618b21d3fd26537a26b94ae
 )
