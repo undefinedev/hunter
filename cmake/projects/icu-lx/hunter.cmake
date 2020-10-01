@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     63.1-p0
     URL
-    "https://github.com/hunter-packages/icu-lx/archive/v63.1-p0.tar.gz"
+    "https://github.com/cpp-pm/icu-lx/archive/v63.1-p0.tar.gz"
     SHA1
     264075debfe574ff5dc963b04375b262b6f8199f
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     63.1-p1
     URL
-    "https://github.com/hunter-packages/icu-lx/archive/v63.1-p1.tar.gz"
+    "https://github.com/cpp-pm/icu-lx/archive/v63.1-p1.tar.gz"
     SHA1
     cabcef58770922c9b0695663445f57c3f66750dd
 )
