@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.5.11-p1
     URL
-    "https://github.com/hunter-packages/ros_std_msgs/archive/v0.5.11-p1.tar.gz"
+    "https://github.com/cpp-pm/ros_std_msgs/archive/v0.5.11-p1.tar.gz"
     SHA1
     "04ad9f0e155b27870c7ad2293ace496523f2e960"
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     0.5.12-p0
     URL
-    "https://github.com/hunter-packages/ros_std_msgs/archive/v0.5.12-p0.tar.gz"
+    "https://github.com/cpp-pm/ros_std_msgs/archive/v0.5.12-p0.tar.gz"
     SHA1
     "68f90e7d9611da0d18f3aab520d76b03e685e5a0"
 )
