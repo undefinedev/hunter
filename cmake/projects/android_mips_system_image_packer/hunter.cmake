@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     1.0.0
     URL
-    "https://github.com/hunter-packages/android_mips_system_image_packer/archive/v1.0.0.tar.gz"
+    "https://github.com/cpp-pm/android_mips_system_image_packer/archive/v1.0.0.tar.gz"
     SHA1
     0b5b6d0771b6986ae50f6f7813c98608584bc31a
 )
