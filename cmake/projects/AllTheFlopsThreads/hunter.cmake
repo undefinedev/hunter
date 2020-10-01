@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     0.1-p0
     URL
-    "https://github.com/hunter-packages/alltheflops-threads/archive/v0.1-p0.tar.gz"
+    "https://github.com/cpp-pm/alltheflops-threads/archive/v0.1-p0.tar.gz"
     SHA1
     f8cbbdcbaf758da584de2d2388fd8818c236c682
 )
