@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     1.0.3-231788a-p0
     URL
-    "https://github.com/hunter-packages/icu-le-hb/archive/v1.0.3-231788a-p0.tar.gz"
+    "https://github.com/cpp-pm/icu-le-hb/archive/v1.0.3-231788a-p0.tar.gz"
     SHA1
     0ce9cabd279e690773c044063d75f9c5d6e229bb
 )
