@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "9.21-p1"
     URL
-    "https://github.com/hunter-packages/StormLib/archive/v9.21-p1.tar.gz"
+    "https://github.com/cpp-pm/StormLib/archive/v9.21-p1.tar.gz"
     SHA1
     db5b811ef5171b163e9abc4d41f1323fb43882a2
 )
