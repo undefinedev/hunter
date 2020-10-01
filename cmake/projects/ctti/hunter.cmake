@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     "0.0.2"
     URL
-   "https://github.com/hunter-packages/ctti/archive/0.0.2.tar.gz"
+   "https://github.com/cpp-pm/ctti/archive/0.0.2.tar.gz"
     SHA1
     20858e749b12505863f57e4b5c2e7852b3ea9027
 )
