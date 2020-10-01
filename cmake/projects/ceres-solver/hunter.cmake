@@ -11,7 +11,7 @@ include(hunter_cacheable)
 hunter_cacheable(ceres-solver)
 
 # use base url for hunter fork
-set(_hunter_ceres_base_url_fork "https://github.com/hunter-packages/ceres-solver/archive")
+set(_hunter_ceres_base_url_fork "https://github.com/cpp-pm/ceres-solver/archive")
 
 
 # List of versions
