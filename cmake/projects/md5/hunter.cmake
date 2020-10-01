@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     1.6
     URL
-    "https://github.com/hunter-packages/md5/archive/v1.6.tar.gz"
+    "https://github.com/cpp-pm/md5/archive/v1.6.tar.gz"
     SHA1
     e693ece280ba161001c6024baac3146b2b8778dc
 )
