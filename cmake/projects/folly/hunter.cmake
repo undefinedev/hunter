@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     2017.11.13.00-p0
     URL
-    "https://github.com/hunter-packages/folly/archive/v2017.11.13.00-p0.tar.gz"
+    "https://github.com/cpp-pm/folly/archive/v2017.11.13.00-p0.tar.gz"
     SHA1
     cb7592adcda706df5f558466b96b1ab4c6bc751a
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     2018.10.22.00-p2
     URL
-    "https://github.com/hunter-packages/folly/archive/v2018.10.22.00-p2.tar.gz"
+    "https://github.com/cpp-pm/folly/archive/v2018.10.22.00-p2.tar.gz"
     SHA1
     5cd5d03bbddd3ad047afc0e402bd3ee3af2888f4
 )
@@ -37,7 +37,7 @@ hunter_add_version(
     VERSION
     2018.10.22.00-p3
     URL
-    "https://github.com/hunter-packages/folly/archive/v2018.10.22.00-p3.tar.gz"
+    "https://github.com/cpp-pm/folly/archive/v2018.10.22.00-p3.tar.gz"
     SHA1
     74487a7393a9cac9c8b49581b3fe965c129d28f3
 )
@@ -48,7 +48,7 @@ hunter_add_version(
     VERSION
     2018.10.22.00-p4
     URL
-    "https://github.com/hunter-packages/folly/archive/v2018.10.22.00-p4.tar.gz"
+    "https://github.com/cpp-pm/folly/archive/v2018.10.22.00-p4.tar.gz"
     SHA1
     aeb254f1010cff1857e5fff897ebbc20e710b410
 )
