@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     0.12.1
     URL
-    "https://github.com/hunter-packages/eos/archive/v0.12.1.tar.gz"
+    "https://github.com/cpp-pm/eos/archive/v0.12.1.tar.gz"
     SHA1
     cbc8143c270fe4ade45be47adae83f34db280659
 )
@@ -27,7 +27,7 @@ hunter_add_version(
     VERSION
     0.6.1-p1
     URL
-    "https://github.com/hunter-packages/eos/archive/v0.6.1-p1.tar.gz"
+    "https://github.com/cpp-pm/eos/archive/v0.6.1-p1.tar.gz"
     SHA1
     663e02aa35275f9dc447e8d4004e091f107eb686    
 )
@@ -38,7 +38,7 @@ hunter_add_version(
     VERSION
     0.6.1-p0
     URL
-    "https://github.com/hunter-packages/eos/archive/v0.6.1-p0.tar.gz"
+    "https://github.com/cpp-pm/eos/archive/v0.6.1-p0.tar.gz"
     SHA1
     3ce7b579fb2795a0c464b2dea12ca9345cf86e91
 )
