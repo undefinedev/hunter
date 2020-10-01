@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.0.0-febbb1c-p0
     URL
-    "https://github.com/hunter-packages/FP16/archive/v0.0.0-febbb1c-p0.tar.gz"
+    "https://github.com/cpp-pm/FP16/archive/v0.0.0-febbb1c-p0.tar.gz"
     SHA1
     86a7e35a2193e60440ea152628ade89eff4cd0cd
 )
