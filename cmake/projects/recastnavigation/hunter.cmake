@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     1.4-p0
     URL
-    "https://github.com/hunter-packages/recastnavigation/archive/v1.4-p0.tar.gz"
+    "https://github.com/cpp-pm/recastnavigation/archive/v1.4-p0.tar.gz"
     SHA1
     fbbd0387e3e46e4486c8848b9582915eb4cf1084
 )
