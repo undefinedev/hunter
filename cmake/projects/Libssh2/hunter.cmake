@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "1.7.0"
     URL
-    "https://github.com/hunter-packages/libssh2/archive/libssh2-1.7.0-hunter-4.tar.gz"
+    "https://github.com/cpp-pm/libssh2/archive/libssh2-1.7.0-hunter-4.tar.gz"
     SHA1
     7e69321f9d09d53ecb367fc571ef303d0986147e
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     "1.4.4-patch-2"
     URL
-    "https://github.com/hunter-packages/libssh2/archive/v1.4.4-patch-2.tar.gz"
+    "https://github.com/cpp-pm/libssh2/archive/v1.4.4-patch-2.tar.gz"
     SHA1
     3334d745eb6ed5e3fb860a5a74e9cfc2e4576c81
 )
@@ -37,7 +37,7 @@ hunter_add_version(
     VERSION
     "1.4.4_DEV-cmake"
     URL
-    "https://github.com/hunter-packages/libssh2/archive/v1.4.4-patch-1.tar.gz"
+    "https://github.com/cpp-pm/libssh2/archive/v1.4.4-patch-1.tar.gz"
     SHA1
     4a5bb23ff19218f92af6e15e46ca5d997c3d7680
 )
