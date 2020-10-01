@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     "1.70.p0"
     URL
-    "https://github.com/hunter-packages/imgui/archive/v1.70.p0.tar.gz"
+    "https://github.com/cpp-pm/imgui/archive/v1.70.p0.tar.gz"
     SHA1
     36a806ecc3b43204e4a895d6842f88519d3d4b98
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     "1.62"
     URL
-    "https://github.com/hunter-packages/imgui/archive/v1.62.p0.tar.gz"
+    "https://github.com/cpp-pm/imgui/archive/v1.62.p0.tar.gz"
     SHA1
     0e1fb683036a45372bc34d39c29068443b6d97e6
 )
