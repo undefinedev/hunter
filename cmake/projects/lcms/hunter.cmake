@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     2.9-p0
     URL
-    "https://github.com/hunter-packages/Little-CMS/archive/v2.9-p0.tar.gz"
+    "https://github.com/cpp-pm/Little-CMS/archive/v2.9-p0.tar.gz"
     SHA1
     5bea20d0e6e98b743e5e72ba1c130e13b9b73584
 )
