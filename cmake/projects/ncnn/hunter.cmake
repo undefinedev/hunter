@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     20180314-p2
     URL
-    "https://github.com/hunter-packages/ncnn/archive/20180314-p2.tar.gz"
+    "https://github.com/cpp-pm/ncnn/archive/20180314-p2.tar.gz"
     SHA1
     7ae8c7e168206885d18eee3068dee96705841bf7
 )
