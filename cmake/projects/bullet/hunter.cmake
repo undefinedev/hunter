@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     2.87-p0
     URL
-    "https://github.com/hunter-packages/bullet3/archive/2.87-p0.tar.gz"
+    "https://github.com/cpp-pm/bullet3/archive/2.87-p0.tar.gz"
     SHA1
     7cd3e8b27b081d4c7f7503c3270009d7dc052a0f
 )
