@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     1.3.0-p1
     URL
-    "https://github.com/hunter-packages/entityx/archive/v1.3.0-p1.tar.gz"
+    "https://github.com/cpp-pm/entityx/archive/v1.3.0-p1.tar.gz"
     SHA1
     8df57150ba8a850ed7250fbd7fd4396a0fa05c22
 )
