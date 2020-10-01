@@ -14,7 +14,7 @@ include(hunter_pick_scheme)
     VERSION
     "1.5.1-628-e6ee435-p0"
     URL
-    "https://github.com/hunter-packages/Bento4/archive/v1.5.1-628-e6ee435-p0.tar.gz"
+    "https://github.com/cpp-pm/Bento4/archive/v1.5.1-628-e6ee435-p0.tar.gz"
     SHA1
     9193721f6b7dce92afa01c37d6c28ddf55103ba5
 )
