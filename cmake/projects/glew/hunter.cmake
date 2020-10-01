@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     "2.0.0"
     URL
-    "https://github.com/hunter-packages/glew/archive/2.0.0-p0.tar.gz"
+    "https://github.com/cpp-pm/glew/archive/2.0.0-p0.tar.gz"
     SHA1
     4355b4a89e11a4ce575b7b4858bfe7511be53b36
 )
@@ -27,7 +27,7 @@ hunter_add_version(
     VERSION
     "2.0.0-p1"
     URL
-    "https://github.com/hunter-packages/glew/archive/v2.0.0-p1.tar.gz"
+    "https://github.com/cpp-pm/glew/archive/v2.0.0-p1.tar.gz"
     SHA1
     6a305e0cd0b2b4f02cc82809ba7e258c427ff36b
 )
