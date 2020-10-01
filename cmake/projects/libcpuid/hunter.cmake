@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     0.4.0
     URL
-    "https://github.com/hunter-packages/libcpuid/archive/v0.4.0-p0.tar.gz"
+    "https://github.com/cpp-pm/libcpuid/archive/v0.4.0-p0.tar.gz"
     SHA1
     dd8255b9a6e84f0d4c81f26b4a32c9af9b2a4e03
 )
