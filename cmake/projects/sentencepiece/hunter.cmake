@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.1.8-p1
     URL
-    "https://github.com/hunter-packages/sentencepiece/archive/v0.1.8-p1.tar.gz"
+    "https://github.com/cpp-pm/sentencepiece/archive/v0.1.8-p1.tar.gz"
     SHA1
     00e5a16ce6af6a4148cd9541c7ff26b9d5e58972
 )
