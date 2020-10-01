@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "1.0.0-p0"
     URL
-    "https://github.com/hunter-packages/spdlog/archive/v1.0.0-p0.tar.gz"
+    "https://github.com/cpp-pm/spdlog/archive/v1.0.0-p0.tar.gz"
     SHA1
     4d9967d165fc7ea2d561210bec2f50e60547daa6
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     "0.11.0-p0"
     URL
-    "https://github.com/hunter-packages/spdlog/archive/v0.11.0-p0.tar.gz"
+    "https://github.com/cpp-pm/spdlog/archive/v0.11.0-p0.tar.gz"
     SHA1
     199c1a19bcdd6fc75faa61263a267805c05e4060
 )
@@ -37,7 +37,7 @@ hunter_add_version(
     VERSION
     "0.12.0-p0"
     URL
-    "https://github.com/hunter-packages/spdlog/archive/v0.12.0-p0.tar.gz"
+    "https://github.com/cpp-pm/spdlog/archive/v0.12.0-p0.tar.gz"
     SHA1
     b10bf7b537198a5f2224c3e022db38da9b2f3d53
 )
@@ -48,7 +48,7 @@ hunter_add_version(
     VERSION
     "0.13.0-p0"
     URL
-    "https://github.com/hunter-packages/spdlog/archive/v0.13.0-p0.tar.gz"
+    "https://github.com/cpp-pm/spdlog/archive/v0.13.0-p0.tar.gz"
     SHA1
     b34b92075423d9da196daefe796316393a0fd593
 )
@@ -59,7 +59,7 @@ hunter_add_version(
     VERSION
     "0.13.0-p1"
     URL
-    "https://github.com/hunter-packages/spdlog/archive/v0.13.0-p1.tar.gz"
+    "https://github.com/cpp-pm/spdlog/archive/v0.13.0-p1.tar.gz"
     SHA1
     edf9ba15852b181e16e1fe323878d8281941b376
 )
@@ -70,7 +70,7 @@ hunter_add_version(
     VERSION
     "0.16.3-p1"
     URL
-    "https://github.com/hunter-packages/spdlog/archive/v0.16.3-p1.tar.gz"
+    "https://github.com/cpp-pm/spdlog/archive/v0.16.3-p1.tar.gz"
     SHA1
     1400ca456ad7c5ba89491f0dd3cd8935a16fe65c
 )
@@ -81,7 +81,7 @@ hunter_add_version(
     VERSION
     "1.2.1-p0"
     URL
-    "https://github.com/hunter-packages/spdlog/archive/v1.2.1-p0.tar.gz"
+    "https://github.com/cpp-pm/spdlog/archive/v1.2.1-p0.tar.gz"
     SHA1
     8bebf25ee48fba4f0c341954b50d26e8292e9f8f
 )
@@ -92,7 +92,7 @@ hunter_add_version(
     VERSION
     "1.3.1-p0"
     URL
-    "https://github.com/hunter-packages/spdlog/archive/v1.3.1-p0.tar.gz"
+    "https://github.com/cpp-pm/spdlog/archive/v1.3.1-p0.tar.gz"
     SHA1
     3d0538af5ea93995ff417faa979f309f834fa352
 )
@@ -103,7 +103,7 @@ hunter_add_version(
     VERSION
     "1.4.2-p0"
     URL
-    "https://github.com/hunter-packages/spdlog/archive/v1.4.2-p0.tar.gz"
+    "https://github.com/cpp-pm/spdlog/archive/v1.4.2-p0.tar.gz"
     SHA1
     61136ee6120fe069d37df4ad11628a2a0622b447
 )
