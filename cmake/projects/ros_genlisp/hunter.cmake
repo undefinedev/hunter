@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.4.16-p0
     URL
-    "https://github.com/hunter-packages/ros_genlisp/archive/v0.4.16-p0.tar.gz"
+    "https://github.com/cpp-pm/ros_genlisp/archive/v0.4.16-p0.tar.gz"
     SHA1
     "5077d8b5cf48f4224fc13659eccd5d7b89062609"
 )
