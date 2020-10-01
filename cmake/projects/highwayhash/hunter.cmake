@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     0.0.0
     URL
-    "https://github.com/hunter-packages/highwayhash/archive/v0.0.0.tar.gz"
+    "https://github.com/cpp-pm/highwayhash/archive/v0.0.0.tar.gz"
     SHA1
     d62b32d5c8b6e63f6d4f8e72cfb495572b4f5386
  )
