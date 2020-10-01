@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     2.30-p0
     URL
-    "https://github.com/hunter-packages/AngelScript/archive/v2.30-p0.tar.gz"
+    "https://github.com/cpp-pm/AngelScript/archive/v2.30-p0.tar.gz"
     SHA1
     0323f68eb7d7c76d88c8d3193995bdf4cfff7f62
 )
