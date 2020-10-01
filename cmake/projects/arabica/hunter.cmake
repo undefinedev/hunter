@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.0.0-a202766-p0
     URL
-    "https://github.com/hunter-packages/arabica/archive/v0.0.0-a202766-p0.tar.gz"
+    "https://github.com/cpp-pm/arabica/archive/v0.0.0-a202766-p0.tar.gz"
     SHA1
     b922f397223d54f7e6c646a862b3b4d93b0b9227
 )
