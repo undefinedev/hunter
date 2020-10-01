@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     1.9.11-p0
     URL
-    "https://github.com/hunter-packages/angles/archive/v1.9.11-p0.tar.gz"
+    "https://github.com/cpp-pm/angles/archive/v1.9.11-p0.tar.gz"
     SHA1
     455a91947b1f81dba5769a6b6b59e00b2208119f
 )
