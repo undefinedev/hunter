@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.2-p0
     URL
-    "https://github.com/hunter-packages/cppcodec/archive/v0.2-p0.tar.gz"
+    "https://github.com/cpp-pm/cppcodec/archive/v0.2-p0.tar.gz"
     SHA1
     9c52a769670a0fec4fc524fc036fa792fbb3e22e
 )
