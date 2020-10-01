@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     2.0.14-p0
     URL
-    "https://github.com/hunter-packages/jasper/archive/v2.0.14-p0.tar.gz"
+    "https://github.com/cpp-pm/jasper/archive/v2.0.14-p0.tar.gz"
     SHA1
     e443966cfacdad2e3f975ba31d72333e06b433b4
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     2.0.14-p1
     URL
-    "https://github.com/hunter-packages/jasper/archive/v2.0.14-p1.tar.gz"
+    "https://github.com/cpp-pm/jasper/archive/v2.0.14-p1.tar.gz"
     SHA1
     0ff33939db0b90d8666755a87d692182916c9774
 )
@@ -37,7 +37,7 @@ hunter_add_version(
     VERSION
     2.0.14-p2
     URL
-    "https://github.com/hunter-packages/jasper/archive/v2.0.14-p2.tar.gz"
+    "https://github.com/cpp-pm/jasper/archive/v2.0.14-p2.tar.gz"
     SHA1
     97ef42fa8b82d27fc5db5007e0d7179b02315b1d
 )
@@ -48,7 +48,7 @@ hunter_add_version(
     VERSION
     2.0.14-p3
     URL
-    "https://github.com/hunter-packages/jasper/archive/v2.0.14-p3.tar.gz"
+    "https://github.com/cpp-pm/jasper/archive/v2.0.14-p3.tar.gz"
     SHA1
     3ce4f2b8fe7471badbb1827c733fcfff64cae08c
 )
