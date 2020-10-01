@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     7.2.0-p0
     URL
-    "https://github.com/hunter-packages/qhull/archive/v7.2.0-p0.tar.gz"
+    "https://github.com/cpp-pm/qhull/archive/v7.2.0-p0.tar.gz"
     SHA1
     17ee22ce8b2814aecb300f31cecf3fb4971b2f1f
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     7.2.0-p1
     URL
-    "https://github.com/hunter-packages/qhull/archive/v7.2.0-p1.tar.gz"
+    "https://github.com/cpp-pm/qhull/archive/v7.2.0-p1.tar.gz"
     SHA1
     48e45eab0d6331403539bd2f3408e02eba7a0256
 )
