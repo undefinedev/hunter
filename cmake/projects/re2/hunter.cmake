@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     2017.11.01-p0
     URL
-    https://github.com/hunter-packages/re2/archive/2017.11.01-p0.tar.gz
+    https://github.com/cpp-pm/re2/archive/2017.11.01-p0.tar.gz
     SHA1
     78ed8b27fe1499a30281f3763bb282ea47636b1a
 )
