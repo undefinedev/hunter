@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     1.0.0
     URL
-    "https://github.com/hunter-packages/check_ci_tag/archive/v1.0.0.tar.gz"
+    "https://github.com/cpp-pm/check_ci_tag/archive/v1.0.0.tar.gz"
     SHA1
     f220960c1174cda57a50a71d6037ca1c4fbbe796
 )
