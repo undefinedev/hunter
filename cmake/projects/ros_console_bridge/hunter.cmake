@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     0.4.0-p0
     URL
-    "https://github.com/hunter-packages/ros_console_bridge/archive/v0.4.0-p0.tar.gz"
+    "https://github.com/cpp-pm/ros_console_bridge/archive/v0.4.0-p0.tar.gz"
     SHA1
     "0ed03b76b1289b5399b5dfdd4a4002596239a06f"
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     0.4.3-p0
     URL
-    "https://github.com/hunter-packages/ros_console_bridge/archive/v0.4.3-p0.tar.gz"
+    "https://github.com/cpp-pm/ros_console_bridge/archive/v0.4.3-p0.tar.gz"
     SHA1
     "9c1827626891522b626059d66cd3f32d9e99c931"
 )
