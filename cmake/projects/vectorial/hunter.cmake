@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     0.0.0-ae7dc88-p0
     URL
-    "https://github.com/hunter-packages/vectorial/archive/v0.0.0-ae7dc88-p0.tar.gz"
+    "https://github.com/cpp-pm/vectorial/archive/v0.0.0-ae7dc88-p0.tar.gz"
     SHA1
     e48cfd17f5cfad979b1d0272d3f7012b3ea5dbf2
 )
