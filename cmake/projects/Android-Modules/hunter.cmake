@@ -13,7 +13,7 @@ hunter_add_version(
     VERSION
     "1.0.0"
     URL
-    "https://github.com/hunter-packages/android-cmake/archive/v1.0.0.tar.gz"
+    "https://github.com/cpp-pm/android-cmake/archive/v1.0.0.tar.gz"
     SHA1
     3ff05bdfc3d1ed24194922954ddbc9482cd7273b
 )
