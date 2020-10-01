@@ -38,7 +38,7 @@ hunter_add_version(
     VERSION
     0.3.1-p0
     URL
-    "https://github.com/hunter-packages/OpenBLAS/archive/v0.3.1-p0.tar.gz"
+    "https://github.com/cpp-pm/OpenBLAS/archive/v0.3.1-p0.tar.gz"
     SHA1
     b525caa851e9cfb9e1756e42c8b4ee4877e98b9f
 )
@@ -49,7 +49,7 @@ hunter_add_version(
     VERSION
     0.3.0-p2
     URL
-    "https://github.com/hunter-packages/OpenBLAS/archive/v0.3.0-p2.tar.gz"
+    "https://github.com/cpp-pm/OpenBLAS/archive/v0.3.0-p2.tar.gz"
     SHA1
     15875c6968eef0af7871d3cf91224570fece40cf
 )
@@ -60,7 +60,7 @@ hunter_add_version(
     VERSION
     0.2.20-p0
     URL
-    "https://github.com/hunter-packages/OpenBLAS/archive/v0.2.20-p0.tar.gz"
+    "https://github.com/cpp-pm/OpenBLAS/archive/v0.2.20-p0.tar.gz"
     SHA1
     8f56263dda492f18972e55d51911a419d37eaba4
 )
@@ -71,7 +71,7 @@ hunter_add_version(
     VERSION
     0.2.19-p0
     URL
-    "https://github.com/hunter-packages/OpenBLAS/archive/v0.2.19-p0.tar.gz"
+    "https://github.com/cpp-pm/OpenBLAS/archive/v0.2.19-p0.tar.gz"
     SHA1
     0d5ea6760304a2f76185e4e81959c0b2eb5bbc35
 )
