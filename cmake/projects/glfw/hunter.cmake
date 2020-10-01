@@ -19,7 +19,7 @@ hunter_add_version(
     VERSION
     "3.2-p0"
     URL
-    "https://github.com/hunter-packages/glfw/archive/3.2-p0.tar.gz"
+    "https://github.com/cpp-pm/glfw/archive/3.2-p0.tar.gz"
     SHA1
     90f91bab3020db15a0fc07c27c53095fa2dbf1b3
     )
@@ -30,7 +30,7 @@ hunter_add_version(
     VERSION
     "3.3.0-p0"
     URL
-    "https://github.com/hunter-packages/glfw/archive/3.3.0-p0.tar.gz"
+    "https://github.com/cpp-pm/glfw/archive/3.3.0-p0.tar.gz"
     SHA1
     3621fc665397f07c57d1c77ac4d85d4634f18d3a
     )
@@ -41,7 +41,7 @@ hunter_add_version(
     VERSION
     "3.3.0-p1"
     URL
-    "https://github.com/hunter-packages/glfw/archive/3.3.0-p1.tar.gz"
+    "https://github.com/cpp-pm/glfw/archive/3.3.0-p1.tar.gz"
     SHA1
     3b42c415f6f6f197768857d12ba44f77e9f1fc50
 )
@@ -52,7 +52,7 @@ hunter_add_version(
     VERSION
     "3.3.0-p2"
     URL
-    "https://github.com/hunter-packages/glfw/archive/3.3.0-p2.tar.gz"
+    "https://github.com/cpp-pm/glfw/archive/3.3.0-p2.tar.gz"
     SHA1
     980c5b788849da9e8429e8f57a10569620b2fa07
 )
@@ -63,7 +63,7 @@ hunter_add_version(
     VERSION
     "3.3.0-p3"
     URL
-    "https://github.com/hunter-packages/glfw/archive/3.3.0-p3.tar.gz"
+    "https://github.com/cpp-pm/glfw/archive/3.3.0-p3.tar.gz"
     SHA1
     76b9d007591ac1464c443066f4e9db1a0b973efc
 )
@@ -74,7 +74,7 @@ hunter_add_version(
     VERSION
     "3.3.0-p4"
     URL
-    "https://github.com/hunter-packages/glfw/archive/3.3.0-p4.tar.gz"
+    "https://github.com/cpp-pm/glfw/archive/3.3.0-p4.tar.gz"
     SHA1
     455c97ea01a1b78ae39a72d00d86eb1c455e0dca
 )
@@ -85,7 +85,7 @@ hunter_add_version(
     VERSION
     "3.3.0-f9923e9-p0"
     URL
-    "https://github.com/hunter-packages/glfw/archive/v3.3.0-f9923e9-p0.tar.gz"
+    "https://github.com/cpp-pm/glfw/archive/v3.3.0-f9923e9-p0.tar.gz"
     SHA1
     533debc50f12ce147d54d210408c7e33654f10a4
 )
