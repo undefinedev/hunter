@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     1.4.1-p0
     URL
-    "https://github.com/hunter-packages/onnx/archive/v1.4.1-p0.tar.gz"
+    "https://github.com/cpp-pm/onnx/archive/v1.4.1-p0.tar.gz"
     SHA1
     70032d6e55c61a6716203cbf44a5773318d2f86e
 )
