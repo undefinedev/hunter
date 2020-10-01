@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     "6.1.9"
     URL
-    "https://github.com/hunter-packages/mysql-client/archive/v1.6.9.tar.gz"
+    "https://github.com/cpp-pm/mysql-client/archive/v1.6.9.tar.gz"
     SHA1
     3268345d8e324d11380cd26475e1669bc5ff2fa0
 )
@@ -37,7 +37,7 @@ hunter_add_version(
     VERSION
     "6.1.9-p0"
     URL
-    "https://github.com/hunter-packages/mysql-client/archive/v1.6.9-p0.tar.gz"
+    "https://github.com/cpp-pm/mysql-client/archive/v1.6.9-p0.tar.gz"
     SHA1
     64c3fb0500e03fc0ee188dca1ec33e52c2f54e32
 )
@@ -48,7 +48,7 @@ hunter_add_version(
     VERSION
     "6.1.9-p1"
     URL
-    "https://github.com/hunter-packages/mysql-client/archive/v1.6.9-p1.tar.gz"
+    "https://github.com/cpp-pm/mysql-client/archive/v1.6.9-p1.tar.gz"
     SHA1
     8c9d00495194955529e4b1074d5bafba9e0882a1
 )
