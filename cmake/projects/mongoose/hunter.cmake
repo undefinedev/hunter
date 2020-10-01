@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     6.10
     URL
-    https://github.com/hunter-packages/mongoose/archive/6.10-p.tar.gz
+    https://github.com/cpp-pm/mongoose/archive/6.10-p.tar.gz
     SHA1
     7f2af8da196c29a60f597b67cde5706d0acb20a0
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     5.6
     URL
-    https://github.com/hunter-packages/mongoose/archive/5.6-p.tar.gz
+    https://github.com/cpp-pm/mongoose/archive/5.6-p.tar.gz
     SHA1
     cbb313403e742f09cbbcf1c1a62c13e156c6b803
 )
