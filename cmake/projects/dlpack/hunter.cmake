@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "0.2-p0"
     URL
-    "https://github.com/hunter-packages/dlpack/archive/v0.2-p0.tar.gz"
+    "https://github.com/cpp-pm/dlpack/archive/v0.2-p0.tar.gz"
     SHA1
     0ecb2a1bbf1f5578e92c11f1deda96cf625eb401
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     "0.2-bee4d1d-p0"
     URL
-    "https://github.com/hunter-packages/dlpack/archive/v0.2-bee4d1d-p0.tar.gz"
+    "https://github.com/cpp-pm/dlpack/archive/v0.2-bee4d1d-p0.tar.gz"
     SHA1
     86a28f7458fc029dea30a096e2e0f4b78c7719be
 )
@@ -48,7 +48,7 @@ hunter_add_version(
     VERSION
     "0.2-5c792ce-p0"
     URL
-    "https://github.com/hunter-packages/dlpack/archive/v0.2-5c792ce-p0.tar.gz"
+    "https://github.com/cpp-pm/dlpack/archive/v0.2-5c792ce-p0.tar.gz"
     SHA1
     0be27ccdaf2142517e21b62cb3629c363ccebbf2
 )
