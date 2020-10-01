@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     1.8.0-p1
     URL
-    "https://github.com/hunter-packages/lz4/archive/v1.8.0-p1.tar.gz"
+    "https://github.com/cpp-pm/lz4/archive/v1.8.0-p1.tar.gz"
     SHA1
     00b58d5f28404ed1fdd3410468ebaa44c2ad8a16
 )
@@ -27,7 +27,7 @@ hunter_add_version(
     VERSION
     1.8.0-p2
     URL
-    "https://github.com/hunter-packages/lz4/archive/v1.8.0-p2.tar.gz"
+    "https://github.com/cpp-pm/lz4/archive/v1.8.0-p2.tar.gz"
     SHA1
     e96abaedd5d8a5a61c21316c8bb173b1954c7c6b
 )
