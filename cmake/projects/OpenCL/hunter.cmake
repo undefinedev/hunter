@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     "2.1-p3"
     URL
-    "https://github.com/hunter-packages/OpenCL-ICD-Loader/archive/2.1-p3.tar.gz"
+    "https://github.com/cpp-pm/OpenCL-ICD-Loader/archive/2.1-p3.tar.gz"
     SHA1
     be6a6c575088103f1b87c5202dc0f69e49b3764f
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     "2.1-p0"
     URL
-    "https://github.com/hunter-packages/OpenCL-ICD-Loader/archive/2.1-p0.tar.gz"
+    "https://github.com/cpp-pm/OpenCL-ICD-Loader/archive/2.1-p0.tar.gz"
     SHA1
     1cb4fed5bc4d0e1583c07e02f43daccab12eb99a
 )
