@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     2.0.3-p0
     URL
-    https://github.com/hunter-packages/mng/archive/v2.0.3-p0.tar.gz
+    https://github.com/cpp-pm/mng/archive/v2.0.3-p0.tar.gz
     SHA1
     d0f3f21b816785841f27f704a69436cc261364bc
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     2.0.3-p1
     URL
-    https://github.com/hunter-packages/mng/archive/v2.0.3-p1.tar.gz
+    https://github.com/cpp-pm/mng/archive/v2.0.3-p1.tar.gz
     SHA1
     7093e4ea2701834ff858aa3441294edbbf83c4b1
 )
@@ -37,7 +37,7 @@ hunter_add_version(
     VERSION
     2.0.3-p2
     URL
-    https://github.com/hunter-packages/mng/archive/v2.0.3-p2.tar.gz
+    https://github.com/cpp-pm/mng/archive/v2.0.3-p2.tar.gz
     SHA1
     54d8034ced87b6411df40d0f3cfd5724257e9b00
 )
