@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     2.1.0-p0
     URL
-    "https://github.com/hunter-packages/yajl/archive/v2.1.0-p0.tar.gz"
+    "https://github.com/cpp-pm/yajl/archive/v2.1.0-p0.tar.gz"
     SHA1
     d2dc11da34efb5148e6b84f43ba08783f1aefef4
 )
