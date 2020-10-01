@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     1.1.0-p0
     URL
-    "https://github.com/hunter-packages/mathfu/archive/v1.1.0-p0.tar.gz"
+    "https://github.com/cpp-pm/mathfu/archive/v1.1.0-p0.tar.gz"
     SHA1
     8ab4c19240e65e406ec2fcb8c6886d9030ca9d83
 )
