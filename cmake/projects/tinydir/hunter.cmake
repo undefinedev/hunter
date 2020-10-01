@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     1.2-p0
     URL
-    "https://github.com/hunter-packages/tinydir/archive/v1.2-p0.tar.gz"
+    "https://github.com/cpp-pm/tinydir/archive/v1.2-p0.tar.gz"
     SHA1
     365d9bed871bdd44194907b247a15b7da227f203
 )
