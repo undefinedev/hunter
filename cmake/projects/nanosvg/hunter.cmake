@@ -14,7 +14,7 @@ include(hunter_pick_scheme)
     VERSION
     "0.0.0-2b08dee-p0"
     URL
-    "https://github.com/hunter-packages/nanosvg/archive/v0.0.0-2b08dee-p0.tar.gz"
+    "https://github.com/cpp-pm/nanosvg/archive/v0.0.0-2b08dee-p0.tar.gz"
     SHA1
     ee4b86de4478fc912510bada2341d4f8faa8feaf
 )
