@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     0.5-p0
     URL
-    "https://github.com/hunter-packages/boost-compute/archive/v0.5-p0.tar.gz"
+    "https://github.com/cpp-pm/boost-compute/archive/v0.5-p0.tar.gz"
     SHA1
     f9a54b5210a4a8f1beb8c7bd3e2469a76f975de5
 )
