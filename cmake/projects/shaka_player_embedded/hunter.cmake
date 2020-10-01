@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     0.1.0-beta-p0
     URL
-    "https://github.com/hunter-packages/shaka-player-embedded/archive/v0.1.0-beta-p0.tar.gz"
+    "https://github.com/cpp-pm/shaka-player-embedded/archive/v0.1.0-beta-p0.tar.gz"
     SHA1
     a0d991550e12ba8e55c3731b250d7100e637b39f
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     0.1.0-beta-p1
     URL
-    "https://github.com/hunter-packages/shaka-player-embedded/archive/v0.1.0-beta-p1.tar.gz"
+    "https://github.com/cpp-pm/shaka-player-embedded/archive/v0.1.0-beta-p1.tar.gz"
     SHA1
     012e02170e2ce43165909de0ee4b264fd72d6727
 )
