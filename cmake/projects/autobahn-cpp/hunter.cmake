@@ -11,7 +11,7 @@ hunter_add_version(
   VERSION
   "0.2.0"
   URL
-  "https://github.com/hunter-packages/autobahn-cpp/archive/0.2.0-hunter-p1.tar.gz"
+  "https://github.com/cpp-pm/autobahn-cpp/archive/0.2.0-hunter-p1.tar.gz"
   SHA1
   43e37635abc924017aeff1036479fde1aea36ceb
   )
