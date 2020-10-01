@@ -55,7 +55,7 @@ hunter_add_version(
     VERSION
     "1.66.0-p0"
     URL
-    "https://github.com/hunter-packages/boost/releases/download/v1.66.0-p0/hunter-1.66.0.7z"
+    "https://github.com/cpp-pm/boost/releases/download/v1.66.0-p0/hunter-1.66.0.7z"
     SHA1
     8c9829ce5e8f0b2b582f8ee1a6103c037a154aa3
 )
@@ -77,7 +77,7 @@ hunter_add_version(
     VERSION
     "1.67.0-p0"
     URL
-    "https://github.com/hunter-packages/boost/archive/v1.67.0-p0.tar.gz"
+    "https://github.com/cpp-pm/boost/archive/v1.67.0-p0.tar.gz"
     SHA1
     e56a5fbafa31683047f92850e05735dfcde084aa
 )
@@ -88,7 +88,7 @@ hunter_add_version(
     VERSION
     "1.67.0-p1"
     URL
-    "https://github.com/hunter-packages/boost/releases/download/v1.67.0-p1/hunter-1.67.0.7z"
+    "https://github.com/cpp-pm/boost/releases/download/v1.67.0-p1/hunter-1.67.0.7z"
     SHA1
     26fcf19a79d013a318562435cef2829ea6bf29a4
 )
@@ -99,7 +99,7 @@ hunter_add_version(
     VERSION
     "1.68.0-p0"
     URL
-    "https://github.com/hunter-packages/boost/releases/download/v1.68.0-p0/hunter-1.68.0.7z"
+    "https://github.com/cpp-pm/boost/releases/download/v1.68.0-p0/hunter-1.68.0.7z"
     SHA1
     3af972569d4b685145442445e51b3fcace342b31
 )
@@ -110,7 +110,7 @@ hunter_add_version(
     VERSION
     "1.68.0-p1"
     URL
-    "https://github.com/hunter-packages/boost/archive/v1.68.0-p1.tar.gz"
+    "https://github.com/cpp-pm/boost/archive/v1.68.0-p1.tar.gz"
     SHA1
     0bb10b0a0fdc196646c87e0143c0290baa32357d
 )
@@ -121,7 +121,7 @@ hunter_add_version(
     VERSION
     "1.69.0-p0"
     URL
-    "https://github.com/hunter-packages/boost/archive/v1.69.0-p0.tar.gz"
+    "https://github.com/cpp-pm/boost/archive/v1.69.0-p0.tar.gz"
     SHA1
     2539b0751f77ff3efdf842775700fe5422c2adfb
 )
@@ -132,7 +132,7 @@ hunter_add_version(
     VERSION
     "1.69.0-p1"
     URL
-    "https://github.com/hunter-packages/boost/archive/v1.69.0-p1.tar.gz"
+    "https://github.com/cpp-pm/boost/archive/v1.69.0-p1.tar.gz"
     SHA1
     7f3a890d698912516f45effb3c88a8b6f93ed2da
 )
@@ -143,7 +143,7 @@ hunter_add_version(
     VERSION
     "1.70.0-p0"
     URL
-    "https://github.com/hunter-packages/boost/archive/v1.70.0-p0.tar.gz"
+    "https://github.com/cpp-pm/boost/archive/v1.70.0-p0.tar.gz"
     SHA1
     e6bb97b5109c7c15ea459cf2b1a9d52cbf88a89e
 )
@@ -235,7 +235,7 @@ hunter_add_version(
     VERSION
     "1.60.0"
     URL
-    "https://github.com/hunter-packages/boost/archive/v1.60.0.tar.gz"
+    "https://github.com/cpp-pm/boost/archive/v1.60.0.tar.gz"
     SHA1
     28a5b0f739114fde5d4ed1d7f52e5b6cf13fe54a
 )
@@ -247,7 +247,7 @@ hunter_add_version(
     VERSION
     "1.59.0"
     URL
-    "https://github.com/hunter-packages/boost/archive/v1.59.0.tar.gz"
+    "https://github.com/cpp-pm/boost/archive/v1.59.0.tar.gz"
     SHA1
     28db0e54f9e55ff1230903704836e035f7227fd5
 )
@@ -259,7 +259,7 @@ hunter_add_version(
     VERSION
     "1.58.0-p1"
     URL
-    "https://github.com/hunter-packages/boost/archive/v1.58.0-p1.tar.gz"
+    "https://github.com/cpp-pm/boost/archive/v1.58.0-p1.tar.gz"
     SHA1
     bc417f98b644f244121c0eb47e810b4c6a6277e8
 )
@@ -270,7 +270,7 @@ hunter_add_version(
     VERSION
     "1.58.0-p0"
     URL
-    "https://github.com/hunter-packages/boost/archive/v1.58.0-p0.tar.gz"
+    "https://github.com/cpp-pm/boost/archive/v1.58.0-p0.tar.gz"
     SHA1
     0c3a2f284e85a61e2d2ccc1a6fdc8dc7a443ef67
 )
@@ -292,7 +292,7 @@ hunter_add_version(
     VERSION
     "1.57.0"
     URL
-    "https://github.com/hunter-packages/boost/archive/v1.57.0.tar.gz"
+    "https://github.com/cpp-pm/boost/archive/v1.57.0.tar.gz"
     SHA1
     9305649224848860664893342ac29709ebcf42f9
 )
@@ -303,7 +303,7 @@ hunter_add_version(
     VERSION
     "1.56.0"
     URL
-    "https://github.com/hunter-packages/boost/archive/v1.56.0.tar.gz"
+    "https://github.com/cpp-pm/boost/archive/v1.56.0.tar.gz"
     SHA1
     08a45c69e90e5ddc485b770a573dbace8e48932e
 )
@@ -315,7 +315,7 @@ hunter_add_version(
     VERSION
     "1.55.0-patched-3"
     URL
-    "https://github.com/hunter-packages/boost/archive/1.55.0-patched-3.tar.gz"
+    "https://github.com/cpp-pm/boost/archive/1.55.0-patched-3.tar.gz"
     SHA1
     4ae01023ac0dc68570fd1bbcf67cbcd839df04eb
 )
@@ -327,7 +327,7 @@ hunter_add_version(
     VERSION
     "1.55.0-patched-2"
     URL
-    "http://sourceforge.net/projects/hunter-packages/files/boost_1_55_0-patched-2.tar.bz2/download"
+    "http://sourceforge.net/projects/cpp-pm/files/boost_1_55_0-patched-2.tar.bz2/download"
     SHA1
     38c0523dbd27ed6b363ad9255548e942d404b39e
 )
@@ -340,7 +340,7 @@ hunter_add_version(
     VERSION
     "1.55.0-patched"
     URL
-    "http://sourceforge.net/projects/hunter-packages/files/boost_1_55_0-patched.tar.bz2/download"
+    "http://sourceforge.net/projects/cpp-pm/files/boost_1_55_0-patched.tar.bz2/download"
     SHA1
     308adf99dbdf0668c9695ff1da075a9e3b71be9d
 )
