@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     "1.2.8-hunter"
     URL
-    "https://github.com/hunter-packages/zlib/archive/v1.2.8-hunter.tar.gz"
+    "https://github.com/cpp-pm/zlib/archive/v1.2.8-hunter.tar.gz"
     SHA1
     75a05fcc928ed52e1eeb93f07a1c78a7890860c0
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     "1.2.8-hunter-1"
     URL
-    "https://github.com/hunter-packages/zlib/archive/v1.2.8-hunter-1.tar.gz"
+    "https://github.com/cpp-pm/zlib/archive/v1.2.8-hunter-1.tar.gz"
     SHA1
     24c89e4b193a56bb411fa9878968002ebe2c6209
 )
@@ -36,7 +36,7 @@ hunter_add_version(
     VERSION
     "1.2.8-p2"
     URL
-    "https://github.com/hunter-packages/zlib/archive/v1.2.8-p2.tar.gz"
+    "https://github.com/cpp-pm/zlib/archive/v1.2.8-p2.tar.gz"
     SHA1
     bef3ee6d68a271dfcd2f659c80d721d4a6b39315
 )
@@ -47,7 +47,7 @@ hunter_add_version(
     VERSION
     "1.2.8-p3"
     URL
-    "https://github.com/hunter-packages/zlib/archive/v1.2.8-p3.tar.gz"
+    "https://github.com/cpp-pm/zlib/archive/v1.2.8-p3.tar.gz"
     SHA1
     573dc28474be47d0c7abc1475a14aa12f0dfcadc
 )
@@ -58,7 +58,7 @@ hunter_add_version(
     VERSION
     "1.2.11-p0"
     URL
-    "https://github.com/hunter-packages/zlib/archive/v1.2.11-p0.tar.gz"
+    "https://github.com/cpp-pm/zlib/archive/v1.2.11-p0.tar.gz"
     SHA1
     9ced8b310aa341af7f3584bac0b2d2a669d2178b
 )
@@ -69,7 +69,7 @@ hunter_add_version(
     VERSION
     "1.2.11-p1"
     URL
-    "https://github.com/hunter-packages/zlib/archive/v1.2.11-p1.tar.gz"
+    "https://github.com/cpp-pm/zlib/archive/v1.2.11-p1.tar.gz"
     SHA1
     fbb8be77db5cb3f4d1b269f273a357d22ccc4b32
 )
@@ -80,7 +80,7 @@ hunter_add_version(
     VERSION
     "0.0.0-chromium-f87c2b10efb4-p0"
     URL
-    "https://github.com/hunter-packages/chromium_zlib/archive/v0.0.0-f87c2b10efb4-p0.tar.gz"
+    "https://github.com/cpp-pm/chromium_zlib/archive/v0.0.0-f87c2b10efb4-p0.tar.gz"
     SHA1
     2fc1f19ef5ba48c415a614e56e1c12507f4676ab
 )
