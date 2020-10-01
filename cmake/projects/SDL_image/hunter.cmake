@@ -12,7 +12,7 @@ hunter_add_version(
         VERSION
         "2.0.1-p1"
         URL
-        "https://github.com/hunter-packages/SDL_image_cmake/archive/2.0.1-p1.tar.gz"
+        "https://github.com/cpp-pm/SDL_image_cmake/archive/2.0.1-p1.tar.gz"
         SHA1
         8f644d026256f48f0e2ba5411422eaf2a91c0463
 )
