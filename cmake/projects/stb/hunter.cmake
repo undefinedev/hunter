@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     0.0.1
     URL
-    "https://github.com/hunter-packages/stb/archive/v0.0.1.tar.gz"
+    "https://github.com/cpp-pm/stb/archive/v0.0.1.tar.gz"
     SHA1
     270aefc345550c229507b37c35b9d5de7ba3a052
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     0.0.0-e6afb9c-p0
     URL
-    "https://github.com/hunter-packages/stb/archive/v0.0.0-e6afb9c-p0.tar.gz"
+    "https://github.com/cpp-pm/stb/archive/v0.0.0-e6afb9c-p0.tar.gz"
     SHA1
     abc0d6a68c5bfb1efdf40a76c6c9f646e4f722ef
 )
