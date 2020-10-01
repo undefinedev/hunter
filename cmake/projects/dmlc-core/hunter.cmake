@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     0.0.0-p1
     URL
-    https://github.com/hunter-packages/dmlc-core/archive/v0.0.0-p1.tar.gz
+    https://github.com/cpp-pm/dmlc-core/archive/v0.0.0-p1.tar.gz
     SHA1
     ba306bb39910c2bb635fb034150b1afde0a6660c
     )
@@ -27,7 +27,7 @@ hunter_add_version(
     VERSION
     0.0.0-p0
     URL
-    https://github.com/hunter-packages/dmlc-core/archive/v0.0.0-p0.tar.gz
+    https://github.com/cpp-pm/dmlc-core/archive/v0.0.0-p0.tar.gz
     SHA1
     f2fbfca630b897e75507e8d3e9e05cc00eee6e8e
     )
@@ -38,7 +38,7 @@ hunter_add_version(
     VERSION
     0.0.0-mxnet-0a0e8ad-p0
     URL
-    https://github.com/hunter-packages/dmlc-core/archive/0.0.0-mxnet-0a0e8ad-p0.tar.gz
+    https://github.com/cpp-pm/dmlc-core/archive/0.0.0-mxnet-0a0e8ad-p0.tar.gz
     SHA1
     551ef4e0e51dfd6cdf79d766fe37e64a3a90d3e0
     )
@@ -49,7 +49,7 @@ hunter_add_version(
     VERSION
     0.0.0-946a540-p0
     URL
-    https://github.com/hunter-packages/dmlc-core/archive/v0.0.0-946a540-p0.tar.gz
+    https://github.com/cpp-pm/dmlc-core/archive/v0.0.0-946a540-p0.tar.gz
     SHA1
     e31258568ec9951272fd1a6a25a04e166931ebbd
     )
@@ -60,7 +60,7 @@ hunter_add_version(
     VERSION
     0.3-d07fb7a-p0
     URL
-    "https://github.com/hunter-packages/dmlc-core/archive/v0.3-d07fb7a-p0.tar.gz"
+    "https://github.com/cpp-pm/dmlc-core/archive/v0.3-d07fb7a-p0.tar.gz"
     SHA1
     4f0abf7a0a06091d2c26de073d992e239fd6e63f
     )
@@ -71,7 +71,7 @@ hunter_add_version(
     VERSION
     0.3-d07fb7a-p1
     URL
-    "https://github.com/hunter-packages/dmlc-core/archive/v0.3-d07fb7a-p1.tar.gz"
+    "https://github.com/cpp-pm/dmlc-core/archive/v0.3-d07fb7a-p1.tar.gz"
     SHA1
     3185100daf1942e7fdd7707fa71a3e8598232913
     )
@@ -82,7 +82,7 @@ hunter_add_version(
     VERSION
     0.3-d07fb7a-p2
     URL
-    "https://github.com/hunter-packages/dmlc-core/archive/v0.3-d07fb7a-p2.tar.gz"
+    "https://github.com/cpp-pm/dmlc-core/archive/v0.3-d07fb7a-p2.tar.gz"
     SHA1
     027989d7f4e4c2bc805ebee08a405e4236e39b73
     )
@@ -93,7 +93,7 @@ hunter_add_version(
     VERSION
     0.3-3943914-p0
     URL
-    "https://github.com/hunter-packages/dmlc-core/archive/v0.3-3943914-p0.tar.gz"
+    "https://github.com/cpp-pm/dmlc-core/archive/v0.3-3943914-p0.tar.gz"
     SHA1
     b81c6bc89f4887971c472bfeefdc756083d13966
     )
