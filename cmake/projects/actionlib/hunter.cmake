@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     1.11.13-p0
     URL
-    "https://github.com/hunter-packages/actionlib/archive/v1.11.13-p0.tar.gz"
+    "https://github.com/cpp-pm/actionlib/archive/v1.11.13-p0.tar.gz"
     SHA1
     f8efaa72ea2d28727832b99b1900f1c1bd21c438
 )
