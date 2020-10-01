@@ -9,7 +9,7 @@ include(hunter_pick_scheme)
 hunter_add_version(
     PACKAGE_NAME oniguruma
     VERSION "6.8.1-p0"
-    URL "https://github.com/hunter-packages/oniguruma/archive/v6.8.1-p0.tar.gz"
+    URL "https://github.com/cpp-pm/oniguruma/archive/v6.8.1-p0.tar.gz"
     SHA1 "6d82ba6bf7a7313b64ba9772622eeeb964e951fb")
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
