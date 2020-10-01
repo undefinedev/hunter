@@ -20,7 +20,7 @@ hunter_add_version(
     VERSION
     "2.1.0-p2"
     URL
-    "https://github.com/hunter-packages/gsl/archive/v2.1.0-p2.tar.gz"
+    "https://github.com/cpp-pm/gsl/archive/v2.1.0-p2.tar.gz"
     SHA1
     4802a840418492e44f0ea9475892e9f7a7456260
 )
@@ -31,7 +31,7 @@ hunter_add_version(
     VERSION
     "2.1.0-p1"
     URL
-    "https://github.com/hunter-packages/gsl/archive/v2.1.0-p1.tar.gz"
+    "https://github.com/cpp-pm/gsl/archive/v2.1.0-p1.tar.gz"
     SHA1
     113574a44eb276dd8ec7c8342400f01f29105299
 )
@@ -42,7 +42,7 @@ hunter_add_version(
     VERSION
     "2.1.0-p0"
     URL
-    "https://github.com/hunter-packages/gsl/archive/v2.1.0-p0.tar.gz"
+    "https://github.com/cpp-pm/gsl/archive/v2.1.0-p0.tar.gz"
     SHA1
     9a1163362a0a82fd2ffa4f25b0bbd8d3e456f546
 )
