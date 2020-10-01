@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     "0.0.0-0dfbf5d-p1"
     URL
-    "https://github.com/hunter-packages/fifo_map/archive/v0.0.0-0dfbf5d-p1.tar.gz"
+    "https://github.com/cpp-pm/fifo_map/archive/v0.0.0-0dfbf5d-p1.tar.gz"
     SHA1
     5361545721631631fd0cb4112f888cba8a2ef7ef
 )
