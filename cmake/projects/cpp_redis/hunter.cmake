@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "3.5.0-h1"
     URL
-    "https://github.com/hunter-packages/cpp_redis/archive/3.5.0-h1.tar.gz"
+    "https://github.com/cpp-pm/cpp_redis/archive/3.5.0-h1.tar.gz"
     SHA1
     b88a7f6c303122f4f62f0c37cce8625a592b51d1
 )
