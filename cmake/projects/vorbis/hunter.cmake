@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     1.3.6-p1
     URL
-    "https://github.com/hunter-packages/vorbis/archive/v1.3.6-p1.tar.gz"
+    "https://github.com/cpp-pm/vorbis/archive/v1.3.6-p1.tar.gz"
     SHA1
     51cdcdbd872d85f3cf2d5515baf9ccaa13690d1a
 )
