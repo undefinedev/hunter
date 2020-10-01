@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     0.0.0-79c3f68-p1
     URL
-    "https://github.com/hunter-packages/SimpleSignal/archive/v0.0.0-79c3f68-p1.tar.gz"
+    "https://github.com/cpp-pm/SimpleSignal/archive/v0.0.0-79c3f68-p1.tar.gz"
     SHA1
     27ab940b3d803bb19311b993c76dfaf675aabfdd
 )
