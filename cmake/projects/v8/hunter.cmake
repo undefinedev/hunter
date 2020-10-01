@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     7.4.98-p1
     URL
-    "https://github.com/hunter-packages/v8/archive/v7.4.98-p1.tar.gz"
+    "https://github.com/cpp-pm/v8/archive/v7.4.98-p1.tar.gz"
     SHA1
     44805a2abbfc65fa73dbbfaa0383135dae9d05af
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     7.4.98-p2
     URL
-    "https://github.com/hunter-packages/v8/archive/v7.4.98-p2.tar.gz"
+    "https://github.com/cpp-pm/v8/archive/v7.4.98-p2.tar.gz"
     SHA1
     7b165ee53bf804ce543880e21954b6d000053571
 )
@@ -36,7 +36,7 @@ hunter_add_version(
     VERSION
     7.4.98-p3
     URL
-    "https://github.com/hunter-packages/v8/archive/v7.4.98-p3.tar.gz"
+    "https://github.com/cpp-pm/v8/archive/v7.4.98-p3.tar.gz"
     SHA1
     397f1fcc8a65c278ac118e1f34e16f8347fb2be5
 )
@@ -47,7 +47,7 @@ hunter_add_version(
     VERSION
     3.29.86-90da229-p0
     URL
-    "https://github.com/hunter-packages/v8/archive/v3.29.86-90da229-p0.tar.gz"
+    "https://github.com/cpp-pm/v8/archive/v3.29.86-90da229-p0.tar.gz"
     SHA1
     57efac9bc2e7a774fdf2437c403c8ed9642ec5b7
 )
