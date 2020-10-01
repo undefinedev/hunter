@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     1.0.0-p0
     URL
-    "https://github.com/hunter-packages/sse2neon/archive/v1.0.0-p0.tar.gz"
+    "https://github.com/cpp-pm/sse2neon/archive/v1.0.0-p0.tar.gz"
     SHA1
     1a3104782526ea6aba9e5429dc64414e91b4cf1c
 )
