@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     1.0.93-p0
     URL
-    "https://github.com/hunter-packages/toluapp/archive/v1.0.93-p0.tar.gz"
+    "https://github.com/cpp-pm/toluapp/archive/v1.0.93-p0.tar.gz"
     SHA1
     851dabf207286e232c7e9eb1c92c7e62314c0202
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     1.0.93-p1
     URL
-    "https://github.com/hunter-packages/toluapp/archive/v1.0.93-p1.tar.gz"
+    "https://github.com/cpp-pm/toluapp/archive/v1.0.93-p1.tar.gz"
     SHA1
     39429ce1b90ad12ed34aa366db587514a96c0c9d
 )
