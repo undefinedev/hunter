@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.0.0-f87c2b10efb4-p0
     URL
-    "https://github.com/hunter-packages/chromium_zlib/archive/v0.0.0-f87c2b10efb4-p0.tar.gz"
+    "https://github.com/cpp-pm/chromium_zlib/archive/v0.0.0-f87c2b10efb4-p0.tar.gz"
     SHA1
     2fc1f19ef5ba48c415a614e56e1c12507f4676ab
 )
