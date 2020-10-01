@@ -9,7 +9,7 @@ include(hunter_pick_scheme)
 hunter_add_version(
     PACKAGE_NAME http-parser
     VERSION "2.8.0"
-    URL "https://github.com/hunter-packages/http-parser/archive/v2.8.0-p0.tar.gz"
+    URL "https://github.com/cpp-pm/http-parser/archive/v2.8.0-p0.tar.gz"
     SHA1 "3ef5048ecc6625f75a8c756026f501ebd5f3f388")
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
