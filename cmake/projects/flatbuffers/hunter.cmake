@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     1.3.0-p3
     URL
-    "https://github.com/hunter-packages/flatbuffers/archive/v1.3.0-p3.tar.gz"
+    "https://github.com/cpp-pm/flatbuffers/archive/v1.3.0-p3.tar.gz"
     SHA1
     b031689b876c2abac28c8e22fea68ca6d572d1f5
 )
