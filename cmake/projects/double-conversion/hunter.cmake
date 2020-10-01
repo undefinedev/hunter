@@ -12,7 +12,7 @@ hunter_add_version(
     VERSION
     "3.0.0"
     URL
-    "https://github.com/hunter-packages/double-conversion/archive/v3.0.0-p0.tar.gz"
+    "https://github.com/cpp-pm/double-conversion/archive/v3.0.0-p0.tar.gz"
     SHA1
     8cef7eff66b8488f996fb091f036eb6dc82f92d5
 )
