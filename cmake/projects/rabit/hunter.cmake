@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     0.0.0-p2
     URL
-    https://github.com/hunter-packages/rabit/archive/v0.0.0-p2.tar.gz
+    https://github.com/cpp-pm/rabit/archive/v0.0.0-p2.tar.gz
     SHA1
     bdb425ca303e1b09bdf8245eed419834bc9b4752
     )
@@ -27,7 +27,7 @@ hunter_add_version(
     VERSION
     0.0.0-p1
     URL
-    https://github.com/hunter-packages/rabit/archive/v0.0.0-p1.tar.gz
+    https://github.com/cpp-pm/rabit/archive/v0.0.0-p1.tar.gz
     SHA1
     f2bb803b381bebe42089acf9946848dd580d9470
     )
@@ -38,7 +38,7 @@ hunter_add_version(
     VERSION
     0.0.0-p0
     URL
-    https://github.com/hunter-packages/rabit/archive/v0.0.0-p0.tar.gz
+    https://github.com/cpp-pm/rabit/archive/v0.0.0-p0.tar.gz
     SHA1
     4f0a65c6f1fcd6b7cce1618aa49faf25e8a8a337
     )
