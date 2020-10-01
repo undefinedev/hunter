@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     2.2.6-p0
     URL
-    "https://github.com/hunter-packages/ros_geneus/archive/v2.2.6-p0.tar.gz"
+    "https://github.com/cpp-pm/ros_geneus/archive/v2.2.6-p0.tar.gz"
     SHA1
     "938a53b42aefca1a1d80384bc5f43ba83e4eed88"
 )
