@@ -10,7 +10,7 @@ hunter_add_version(
 	VERSION
 	"1.3.3-p0"
 	URL
-	"https://github.com/hunter-packages/ogg/archive/v1.3.3-p0.tar.gz"
+	"https://github.com/cpp-pm/ogg/archive/v1.3.3-p0.tar.gz"
 	SHA1
 	1c83a80374670c6c3cd2ffba59397a0329b69544
 )
