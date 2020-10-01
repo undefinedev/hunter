@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     2.12.2-p0
     URL
-    "https://github.com/hunter-packages/libimagequant/archive/v2.12.2-p0.tar.gz"
+    "https://github.com/cpp-pm/libimagequant/archive/v2.12.2-p0.tar.gz"
     SHA1
     95960f65c1e103cc87a2b07e656ce247188ee082
 )
