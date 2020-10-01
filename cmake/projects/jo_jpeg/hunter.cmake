@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     0.0.1
     URL
-    "https://github.com/hunter-packages/jo_jpeg/archive/v0.0.1.tar.gz"
+    "https://github.com/cpp-pm/jo_jpeg/archive/v0.0.1.tar.gz"
     SHA1
     1fdfa0b7f1e0c958f692dea080b8fbee6fca25e9
 )
