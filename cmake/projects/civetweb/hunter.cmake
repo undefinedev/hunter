@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     1.11-p0
     URL
-    "https://github.com/hunter-packages/civetweb/archive/v1.11-p0.tar.gz"
+    "https://github.com/cpp-pm/civetweb/archive/v1.11-p0.tar.gz"
     SHA1
     de6eee085d98419c2db70787cea0d3aff4639ea7
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     1.10-p1
     URL
-    "https://github.com/hunter-packages/civetweb/archive/v1.10-p1.tar.gz"
+    "https://github.com/cpp-pm/civetweb/archive/v1.10-p1.tar.gz"
     SHA1
     151d705b4c8eb3fe81b273da6ef65ad8a4c1ef8a
 )
