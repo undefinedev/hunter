@@ -9,7 +9,7 @@ include(hunter_pick_scheme)
 hunter_add_version(
     PACKAGE_NAME opentracing-cpp
     VERSION "1.0.0"
-    URL "https://github.com/hunter-packages/opentracing-cpp/archive/hunter-v1.0.0.tar.gz"
+    URL "https://github.com/cpp-pm/opentracing-cpp/archive/hunter-v1.0.0.tar.gz"
     SHA1 "881faab1353be98f605534d2777349eb5cbbe6be")
 
 hunter_add_version(
