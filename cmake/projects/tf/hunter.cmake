@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     1.12.0-p0
     URL
-    "https://github.com/hunter-packages/tf/archive/v1.12.0-p0.tar.gz"
+    "https://github.com/cpp-pm/tf/archive/v1.12.0-p0.tar.gz"
     SHA1
     349b34bc9fe31e2f372d52e8b0b03002e229cc2c
 )
