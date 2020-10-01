@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     1.13.10-p0
     URL
-    "https://github.com/hunter-packages/rosconsole/archive/v1.13.10-p0.tar.gz"
+    "https://github.com/cpp-pm/rosconsole/archive/v1.13.10-p0.tar.gz"
     SHA1
     293826e85d2f22677ea3a738c0d1d28ca18334ca
 )
