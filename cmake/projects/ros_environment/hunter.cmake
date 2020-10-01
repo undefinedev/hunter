@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     1.2.0-p0
     URL
-    "https://github.com/hunter-packages/ros_environment/archive/v1.2.0-p0.tar.gz"
+    "https://github.com/cpp-pm/ros_environment/archive/v1.2.0-p0.tar.gz"
     SHA1
     "01068d113b6517496027a01ca91c85030ae8638f"
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     1.2.1-p0
     URL
-    "https://github.com/hunter-packages/ros_environment/archive/v1.2.1-p0.tar.gz"
+    "https://github.com/cpp-pm/ros_environment/archive/v1.2.1-p0.tar.gz"
     SHA1
     "bbc8d15550fce1478748fadb9170d3a3e5e49460"
 )
