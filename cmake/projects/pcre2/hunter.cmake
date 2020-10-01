@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     10.13-p0
     URL
-    "https://github.com/hunter-packages/pcre2/archive/v10.33-p0.tar.gz"
+    "https://github.com/cpp-pm/pcre2/archive/v10.33-p0.tar.gz"
     SHA1
     7fa03a8b27230770f6d8fa09885825dd95483405
 )
