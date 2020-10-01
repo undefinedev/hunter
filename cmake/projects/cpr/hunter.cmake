@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     1.3.0
     URL
-    https://github.com/hunter-packages/cpr/archive/1.3.0-p.tar.gz
+    https://github.com/cpp-pm/cpr/archive/1.3.0-p.tar.gz
     SHA1
     6a44d4ed75cc75b21ff7612c319a0d9587fcf18d
 )
