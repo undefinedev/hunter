@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     0.0.0-287e4be-p0
     URL
-    "https://github.com/hunter-packages/libs3/archive/v0.0.0-287e4be-p0.tar.gz"
+    "https://github.com/cpp-pm/libs3/archive/v0.0.0-287e4be-p0.tar.gz"
     SHA1
     da8fae10bcda3126b0847b2a255e62435afc313e
 )
@@ -36,7 +36,7 @@ hunter_add_version(
     VERSION
     0.0.0-287e4be-p1
     URL
-    "https://github.com/hunter-packages/libs3/archive/v0.0.0-287e4be-p1.tar.gz"
+    "https://github.com/cpp-pm/libs3/archive/v0.0.0-287e4be-p1.tar.gz"
     SHA1
     908d859fcde3424ee5e3226288d2604c2419d996
 )
