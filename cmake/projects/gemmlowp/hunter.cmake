@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     1.0.0
     URL
-    "https://github.com/hunter-packages/gemmlowp/archive/v1.0.0.tar.gz"
+    "https://github.com/cpp-pm/gemmlowp/archive/v1.0.0.tar.gz"
     SHA1
     2da3f6f97b9e3368a3afd5d002334248b79cf6c3
     )
