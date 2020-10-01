@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     2.0.1-p0
     URL
-    "https://github.com/hunter-packages/ros_gennodejs/archive/v2.0.1-p0.tar.gz"
+    "https://github.com/cpp-pm/ros_gennodejs/archive/v2.0.1-p0.tar.gz"
     SHA1
     "b8e6744d0aabd8422d4e367044093d8a3c122c50"
 )
