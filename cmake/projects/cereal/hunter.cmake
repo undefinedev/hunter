@@ -18,7 +18,7 @@ hunter_add_version(
     VERSION
     "1.2.2-p0"
     URL
-    "https://github.com/hunter-packages/cereal/archive/v1.2.2-p0.tar.gz"
+    "https://github.com/cpp-pm/cereal/archive/v1.2.2-p0.tar.gz"
     SHA1
     7325d29644654c16f066a8c887665c2cf78226c2
     )
