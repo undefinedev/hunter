@@ -12,7 +12,7 @@ hunter_add_version(
     VERSION
     "2.0.14-p0"
     URL
-    "https://github.com/hunter-packages/SDL_ttf/archive/v2.0.14-p0.tar.gz"
+    "https://github.com/cpp-pm/SDL_ttf/archive/v2.0.14-p0.tar.gz"
     SHA1
     cd7f7806b5de657081d558ef1c12033c43522efe
 )
