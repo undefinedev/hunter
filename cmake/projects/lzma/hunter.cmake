@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     5.2.3-p0
     URL
-    "https://github.com/hunter-packages/lzma/archive/v5.2.3-p0.tar.gz"
+    "https://github.com/cpp-pm/lzma/archive/v5.2.3-p0.tar.gz"
     SHA1
     98de5eb2f3bf361a836ee78509f311db1c54494b
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     5.2.3-p1
     URL
-    "https://github.com/hunter-packages/lzma/archive/v5.2.3-p1.tar.gz"
+    "https://github.com/cpp-pm/lzma/archive/v5.2.3-p1.tar.gz"
     SHA1
     391ace8ca1ae84d3b4fb9750943749bc6b589e87
 )
@@ -36,7 +36,7 @@ hunter_add_version(
     VERSION
     5.2.3-p2
     URL
-    "https://github.com/hunter-packages/lzma/archive/v5.2.3-p2.tar.gz"
+    "https://github.com/cpp-pm/lzma/archive/v5.2.3-p2.tar.gz"
     SHA1
     758b108c2acb060ff4ddd9118d71809b3dd60427
 )
@@ -47,7 +47,7 @@ hunter_add_version(
     VERSION
     5.2.3-p4
     URL
-    "https://github.com/hunter-packages/lzma/archive/v5.2.3-p4.tar.gz"
+    "https://github.com/cpp-pm/lzma/archive/v5.2.3-p4.tar.gz"
     SHA1
     09d7d8c8c8f1f488b3ccb739760c2092aae62441
 )
