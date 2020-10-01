@@ -9,7 +9,7 @@ include(hunter_pick_scheme)
 hunter_add_version(
     PACKAGE_NAME jansson
     VERSION "2.11.0"
-    URL "https://github.com/hunter-packages/jansson/archive/v2.11-p0.tar.gz"
+    URL "https://github.com/cpp-pm/jansson/archive/v2.11-p0.tar.gz"
     SHA1 "4f5855dac698e9658fd94620b64f8430f265be1d")
 
 hunter_cmake_args(jansson CMAKE_ARGS
