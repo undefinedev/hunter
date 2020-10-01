@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     1.0.0
     URL
-    "https://github.com/hunter-packages/android_sdk_packer/archive/v1.0.0.tar.gz"
+    "https://github.com/cpp-pm/android_sdk_packer/archive/v1.0.0.tar.gz"
     SHA1
     9b32b707535d59f036d2600a1d876a0ca28a472e
 )
