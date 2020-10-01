@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     1.0.0
     URL
-    "https://github.com/hunter-packages/android_google_apis_intel_x86_atom_system_image_packer/archive/v1.0.0.tar.gz"
+    "https://github.com/cpp-pm/android_google_apis_intel_x86_atom_system_image_packer/archive/v1.0.0.tar.gz"
     SHA1
     beb881562b055e0c6a050f26c5f14512793e9330
 )
