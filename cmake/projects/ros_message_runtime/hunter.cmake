@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.4.12-p0
     URL
-    "https://github.com/hunter-packages/ros_message_runtime/archive/v0.4.12-p0.tar.gz"
+    "https://github.com/cpp-pm/ros_message_runtime/archive/v0.4.12-p0.tar.gz"
     SHA1
     "54be9c1294b298388fc975fae73d5d155ca7e290"
 )
