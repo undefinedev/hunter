@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     1.0
     URL
-    "https://github.com/hunter-packages/android_arm_eabi_v7a_system_image_packer/archive/v1.0.tar.gz"
+    "https://github.com/cpp-pm/android_arm_eabi_v7a_system_image_packer/archive/v1.0.tar.gz"
     SHA1
     a7a2e11c0fc621363600852a6e7e92d11781f554
 )
