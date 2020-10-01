@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     2019-07-21-p0
     URL
-    "https://github.com/hunter-packages/quickjs/archive/2019-07-21-p0.tar.gz"
+    "https://github.com/cpp-pm/quickjs/archive/2019-07-21-p0.tar.gz"
     SHA1
     def3915206ca673831601adf4efbe0f8264806e5
 )
