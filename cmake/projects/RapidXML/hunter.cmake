@@ -11,7 +11,7 @@ hunter_add_version(
     VERSION
     "1.13"
     URL
-    "https://github.com/hunter-packages/rapidxml/archive/v1.13-hunter.tar.gz"
+    "https://github.com/cpp-pm/rapidxml/archive/v1.13-hunter.tar.gz"
     SHA1
     d7f9b263a4c1e90dca488d3cf040364339ff09e2
 )
