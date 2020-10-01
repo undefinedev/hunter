@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.4.1-p0
     URL
-    "https://github.com/hunter-packages/class_loader/archive/v0.4.1-p0.tar.gz"
+    "https://github.com/cpp-pm/class_loader/archive/v0.4.1-p0.tar.gz"
     SHA1
     43e3227edd9131a3b4d9e655e60dbba7cd26c3ed
 )
