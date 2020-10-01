@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     1.0.0
     URL
-    "https://github.com/hunter-packages/boringssl/archive/v1.0.0.tar.gz"
+    "https://github.com/cpp-pm/boringssl/archive/v1.0.0.tar.gz"
     SHA1
     caa7cd122960c9427bda30db5020b9058cb1ed0a
     )
@@ -27,7 +27,7 @@ hunter_add_version(
     VERSION
     0.0.0-0f5ecd3a8-p0
     URL
-    "https://github.com/hunter-packages/boringssl/archive/v0.0.0-0f5ecd3a8-p0.tar.gz"
+    "https://github.com/cpp-pm/boringssl/archive/v0.0.0-0f5ecd3a8-p0.tar.gz"
     SHA1
     fee17b226c3132edc44711365eb5ea023c55bb1d
     )
