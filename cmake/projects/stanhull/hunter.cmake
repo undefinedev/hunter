@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     0.0.1
     URL
-    "https://github.com/hunter-packages/stanhull/archive/v0.0.1.tar.gz"
+    "https://github.com/cpp-pm/stanhull/archive/v0.0.1.tar.gz"
     SHA1
     df0a99f598ba46f7dfa9e017bc043d62828ebc55
 )
