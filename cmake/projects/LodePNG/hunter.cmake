@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     "0.0.0-p1"
     URL
-    "https://github.com/hunter-packages/lodepng/archive/v0.0.0-p1.tar.gz"
+    "https://github.com/cpp-pm/lodepng/archive/v0.0.0-p1.tar.gz"
     SHA1
     315129891c5ea6c922ed98398c853a7a83a3c662
 )
