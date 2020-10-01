@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.0.0-d5e37ad-p0
     URL
-    https://github.com/hunter-packages/cpuinfo/archive/v0.0.0-d5e37ad-p0.tar.gz
+    https://github.com/cpp-pm/cpuinfo/archive/v0.0.0-d5e37ad-p0.tar.gz
     SHA1
     211cc7d1d630e56ee22770f0a9d35c4774d7e671
 )
