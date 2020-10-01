@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     "0.7.0-p0"
     URL
-    "https://github.com/hunter-packages/libjson-rpc-cpp/archive/v0.7.0-p0.tar.gz"
+    "https://github.com/cpp-pm/libjson-rpc-cpp/archive/v0.7.0-p0.tar.gz"
     SHA1
     ddd5f12dfde6f7072d271071bd2c7b0a487de97f
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     "0.7.0-p3"
     URL
-    "https://github.com/hunter-packages/libjson-rpc-cpp/archive/v0.7.0-p3.tar.gz"
+    "https://github.com/cpp-pm/libjson-rpc-cpp/archive/v0.7.0-p3.tar.gz"
     SHA1
     f2c7e2fd73c1ad3662d275c2b2e515b2ddf02a72
 )
