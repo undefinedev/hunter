@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     1.7.4-p0
     URL
-    "https://github.com/hunter-packages/cub/archive/v1.7.4-p0.tar.gz"
+    "https://github.com/cpp-pm/cub/archive/v1.7.4-p0.tar.gz"
     SHA1
     c90ecb5fd3c393371abb9cfbf61d4fd5e36564f1
     )
@@ -27,7 +27,7 @@ hunter_add_version(
     VERSION
     1.8.0-p0
     URL
-    "https://github.com/hunter-packages/cub/archive/v1.8.0-p0.tar.gz"
+    "https://github.com/cpp-pm/cub/archive/v1.8.0-p0.tar.gz"
     SHA1
     99bbf25d1052f9668c3f7ea140971513e6b661c0
 )
