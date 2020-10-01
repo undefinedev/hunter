@@ -17,7 +17,7 @@ hunter_add_version(
     VERSION
     "6.0.1-p0"
     URL
-    "https://github.com/hunter-packages/llvm/archive/v6.0.1-p0.tar.gz"
+    "https://github.com/cpp-pm/llvm/archive/v6.0.1-p0.tar.gz"
     SHA1
     0942eedb9f349f3de7c483600de026192cc9e3ee
 )
@@ -28,7 +28,7 @@ hunter_add_version(
     VERSION
     "4.0.1-p0"
     URL
-    "https://github.com/hunter-packages/llvm/archive/v4.0.1-p0.tar.gz"
+    "https://github.com/cpp-pm/llvm/archive/v4.0.1-p0.tar.gz"
     SHA1
     fd70af82551d3a693c4270d71e994b810f33f593
 )
@@ -39,7 +39,7 @@ hunter_add_version(
     VERSION
     "3.6.2-p0"
     URL
-    "https://github.com/hunter-packages/llvm/archive/v3.6.2-p0.tar.gz"
+    "https://github.com/cpp-pm/llvm/archive/v3.6.2-p0.tar.gz"
     SHA1
     81eed993cbbc7243597a4b16d2e371618156396b
 )
