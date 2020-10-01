@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     "1.0.0"
     URL
-    "https://github.com/hunter-packages/imshow/archive/v1.0.0.tar.gz"    
+    "https://github.com/cpp-pm/imshow/archive/v1.0.0.tar.gz"    
     SHA1
     3b01b2cdd59d8a90da0df45888e96175da009ef5
 )
@@ -27,7 +27,7 @@ hunter_add_version(
     VERSION
     "1.0.0-p0"
     URL
-    "https://github.com/hunter-packages/imshow/archive/v1.0.0-p0.tar.gz"
+    "https://github.com/cpp-pm/imshow/archive/v1.0.0-p0.tar.gz"
     SHA1
     196be66bb2bf62747e638b87444b88824ca51a18
 )
