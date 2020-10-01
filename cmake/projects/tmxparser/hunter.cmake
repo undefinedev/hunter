@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     2.1.0-ab4125b-p1
     URL
-	"https://github.com/hunter-packages/tmxparser/archive/v2.1.0-ab4125b-p1.tar.gz"
+	"https://github.com/cpp-pm/tmxparser/archive/v2.1.0-ab4125b-p1.tar.gz"
     SHA1
     2f8cb2fba7b4241fbadc54f2f1928f72fb84cade
 )
