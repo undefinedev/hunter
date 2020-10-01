@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     2.0.3-p0
     URL
-    "https://github.com/hunter-packages/libjpeg-turbo/archive/v2.0.3-p0.tar.gz"
+    "https://github.com/cpp-pm/libjpeg-turbo/archive/v2.0.3-p0.tar.gz"
     SHA1
     7b1a439887a71a72da087cce71396fadd81008a2
 )
