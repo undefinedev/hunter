@@ -9,7 +9,7 @@ include(hunter_pick_scheme)
 hunter_add_version(
     PACKAGE_NAME libmill
     VERSION "1.18"
-    URL "https://github.com/hunter-packages/libmill/archive/hunter-1.18.tar.gz"
+    URL "https://github.com/cpp-pm/libmill/archive/hunter-1.18.tar.gz"
     SHA1 "447807f84cbd3369d3031b394e0941574e01b08a")
 hunter_cmake_args(libmill CMAKE_ARGS
                   BUILD_TESTING=OFF
