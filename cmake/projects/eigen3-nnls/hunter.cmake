@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     1.0.0
     URL
-    "https://github.com/hunter-packages/eigen3-nnls/archive/v1.0.0.tar.gz"
+    "https://github.com/cpp-pm/eigen3-nnls/archive/v1.0.0.tar.gz"
     SHA1
     0bc34af72ace36e14dc8387e292e338ee30f620d
     )
@@ -27,7 +27,7 @@ hunter_add_version(
     VERSION
     1.0.1
     URL
-    "https://github.com/hunter-packages/eigen3-nnls/archive/v1.0.1.tar.gz"
+    "https://github.com/cpp-pm/eigen3-nnls/archive/v1.0.1.tar.gz"
     SHA1
     c324595a32b51476eb5e26ce70616709e97b2ec3
     )
