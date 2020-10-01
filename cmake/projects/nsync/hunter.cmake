@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     1.14-p1
     URL
-    "https://github.com/hunter-packages/nsync/archive/v1.14-p1.tar.gz"
+    "https://github.com/cpp-pm/nsync/archive/v1.14-p1.tar.gz"
     SHA1
     ba52dbd178fc5162aac4469b67c0b5a684e37075
     )
