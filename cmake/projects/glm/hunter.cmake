@@ -13,7 +13,7 @@ hunter_add_version(
     VERSION
     "0.9.7.6"
     URL
-    "https://github.com/hunter-packages/glm/archive/0.9.7.6-p0.tar.gz"
+    "https://github.com/cpp-pm/glm/archive/0.9.7.6-p0.tar.gz"
     SHA1
     6169cec7b94172141431ef4661e70a5e515c1fa6
 )
@@ -24,7 +24,7 @@ hunter_add_version(
     VERSION
     "0.9.8.5"
     URL
-    "https://github.com/hunter-packages/glm/archive/0.9.8.5.tar.gz"
+    "https://github.com/cpp-pm/glm/archive/0.9.8.5.tar.gz"
     SHA1
     04ff6d037916f85219e53731e08eb8660d14a38d
 )
