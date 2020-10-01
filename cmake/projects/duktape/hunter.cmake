@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     1.5.2-p0
     URL
-    "https://github.com/hunter-packages/duktape/archive/v1.5.2-p0.tar.gz"
+    "https://github.com/cpp-pm/duktape/archive/v1.5.2-p0.tar.gz"
     SHA1
     d5e271aecae4fd6da5d3526783f4278e83c2853a
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     2.2.1-p0
     URL
-    "https://github.com/hunter-packages/duktape/archive/v2.2.1-p0.tar.gz"
+    "https://github.com/cpp-pm/duktape/archive/v2.2.1-p0.tar.gz"
     SHA1
     7482a0870d9dd1908384fdc465e1f31fc0ae04ca
 )
