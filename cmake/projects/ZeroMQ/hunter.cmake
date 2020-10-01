@@ -12,7 +12,7 @@ hunter_add_version(
   VERSION
   "4.1.4-p2"
   URL
-  "https://github.com/hunter-packages/zeromq4-1/archive/v4.1.4-hunter-p2.tar.gz"
+  "https://github.com/cpp-pm/zeromq4-1/archive/v4.1.4-hunter-p2.tar.gz"
   SHA1
   a3f39b9bbc23cf896cb78b3b33e3b46a45177eb5
   )
@@ -23,7 +23,7 @@ hunter_add_version(
   VERSION
   "4.1.4"
   URL
-  "https://github.com/hunter-packages/zeromq4-1/archive/v4.1.4-hunter-p1.tar.gz"
+  "https://github.com/cpp-pm/zeromq4-1/archive/v4.1.4-hunter-p1.tar.gz"
   SHA1
   be57db45f4f998c04d1804132b1302f923405fa4
   )
@@ -34,7 +34,7 @@ hunter_add_version(
     VERSION
     "4.2.3-p1"
     URL
-    "https://github.com/hunter-packages/libzmq/releases/download/v4.2.3-hunter-1/libzmq-4.2.3-hunter-1.tar.gz"
+    "https://github.com/cpp-pm/libzmq/releases/download/v4.2.3-hunter-1/libzmq-4.2.3-hunter-1.tar.gz"
     SHA1
     14ce51a8940f9f23d821a3363c128a51bfafa257
 )
