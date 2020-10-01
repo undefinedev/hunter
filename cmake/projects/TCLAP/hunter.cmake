@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     1.2.2-p1
     URL
-    "https://github.com/hunter-packages/tclap/archive/v1.2.2-p1.zip"
+    "https://github.com/cpp-pm/tclap/archive/v1.2.2-p1.zip"
     SHA1
     c31f3b37c5f1cc34e802000e338d3f04a4d5da79
 )
