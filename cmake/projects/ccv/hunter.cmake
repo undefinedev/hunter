@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "0.7-p6"
      URL
-     "https://github.com/hunter-packages/ccv/archive/v0.7-p6.tar.gz"
+     "https://github.com/cpp-pm/ccv/archive/v0.7-p6.tar.gz"
      SHA1
      6fdcc8fe0e31a169a3fb26df7c694873208ccc44
 )
