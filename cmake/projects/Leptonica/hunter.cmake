@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     "1.74.2-p4"
     URL
-    "https://github.com/hunter-packages/leptonica/archive/v1.74.2-p4.tar.gz"
+    "https://github.com/cpp-pm/leptonica/archive/v1.74.2-p4.tar.gz"
     SHA1
     b317631496a683759565fc925e5125fddf85466a
 )
