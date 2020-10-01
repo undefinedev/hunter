@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.6.1-p1
     URL
-    "https://github.com/hunter-packages/redisclient/archive/v0.6.1-p1.tar.gz"
+    "https://github.com/cpp-pm/redisclient/archive/v0.6.1-p1.tar.gz"
     SHA1
     0f105334715b512a6c08118b232f6b2f05ce8274
 )
