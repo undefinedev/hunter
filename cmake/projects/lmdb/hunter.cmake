@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     0.9.21-p1
     URL
-    "https://github.com/hunter-packages/lmdb/archive/v0.9.21-p1.tar.gz"
+    "https://github.com/cpp-pm/lmdb/archive/v0.9.21-p1.tar.gz"
     SHA1
     4218e126cbc18756d93a798f56e5e6dd10803aae
   )
@@ -26,7 +26,7 @@ hunter_add_version(
     lmdb
     VERSION
     0.9.21-p2
-    URL "https://github.com/hunter-packages/lmdb/archive/v0.9.21-p2.tar.gz"
+    URL "https://github.com/cpp-pm/lmdb/archive/v0.9.21-p2.tar.gz"
     SHA1 "ae88e15f646d26ca0a4a4b0d05041460bd509736"
   )
 
