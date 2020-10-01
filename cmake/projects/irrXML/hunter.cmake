@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     "1.2-p0"
     URL
-    "https://github.com/hunter-packages/irrXML/archive/v1.2-p0.tar.gz"
+    "https://github.com/cpp-pm/irrXML/archive/v1.2-p0.tar.gz"
     SHA1
     c766ac44744f8387b7d745b00233b80713c5b689
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     "1.2"
     URL
-    "https://github.com/hunter-packages/irrXML/archive/1.2.tar.gz"
+    "https://github.com/cpp-pm/irrXML/archive/1.2.tar.gz"
     SHA1
     726c1461d51fda1908b4050603682de680925b44
 )
