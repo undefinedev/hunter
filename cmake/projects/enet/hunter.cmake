@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "1.3.13-p1"
     URL
-    "https://github.com/hunter-packages/enet/archive/v1.3.13-p1.tar.gz"
+    "https://github.com/cpp-pm/enet/archive/v1.3.13-p1.tar.gz"
     SHA1
     40f97cc8d5e41f36fab05c9170836fb55d64191e
 )
