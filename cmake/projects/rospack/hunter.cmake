@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     2.5.0-p0
     URL
-    "https://github.com/hunter-packages/rospack/archive/v2.5.0-p0.tar.gz"
+    "https://github.com/cpp-pm/rospack/archive/v2.5.0-p0.tar.gz"
     SHA1
     "3ed739a889b0a17f3ece52b7910e221c1f002de9"
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     2.5.3-p0
     URL
-    "https://github.com/hunter-packages/rospack/archive/v2.5.3-p0.tar.gz"
+    "https://github.com/cpp-pm/rospack/archive/v2.5.3-p0.tar.gz"
     SHA1
     "6f233779d0540a45dfe6f88b25fd740d03db9ade"
 )
