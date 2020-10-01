@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     0.1-p1
     URL
-    "https://github.com/hunter-packages/mtplz/archive/v0.1-p1.tar.gz"
+    "https://github.com/cpp-pm/mtplz/archive/v0.1-p1.tar.gz"
     SHA1
     3323b6a97afefa0cc008785caa37b43681c9589e
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     0.1-p3
     URL
-    "https://github.com/hunter-packages/mtplz/archive/v0.1-p3.tar.gz"
+    "https://github.com/cpp-pm/mtplz/archive/v0.1-p3.tar.gz"
     SHA1
     22a29dbe58a86e4e91e1abeb1ab4c67cf3ceca79
 )
