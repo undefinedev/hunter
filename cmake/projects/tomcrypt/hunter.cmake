@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "1.17-p1"
     URL
-    "https://github.com/hunter-packages/libtomcrypt/archive/1.17-p1.tar.gz"
+    "https://github.com/cpp-pm/libtomcrypt/archive/1.17-p1.tar.gz"
     SHA1
     3c9c61ee441b77517525528f5c191fa19801fd30
 )
@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     "1.17-p2"
     URL
-    "https://github.com/hunter-packages/libtomcrypt/archive/1.17-p2.tar.gz"
+    "https://github.com/cpp-pm/libtomcrypt/archive/1.17-p2.tar.gz"
     SHA1
     90a3796bddd319fe12529d4b58e2ab23c15b7f1b
 )
@@ -37,7 +37,7 @@ hunter_add_version(
     VERSION
     "1.17-p3"
     URL
-    "https://github.com/hunter-packages/libtomcrypt/archive/1.17-p3.tar.gz"
+    "https://github.com/cpp-pm/libtomcrypt/archive/1.17-p3.tar.gz"
     SHA1
     69b882eff5bf69a5a4e0e9169cc9b9c0ea5b9d71
 )
@@ -47,7 +47,7 @@ hunter_add_version(
     VERSION
     "1.18.2-p1"
     URL
-    "https://github.com/hunter-packages/libtomcrypt/archive/v1.18.2-p1.tar.gz"
+    "https://github.com/cpp-pm/libtomcrypt/archive/v1.18.2-p1.tar.gz"
     SHA1
     15a37f1bb33b8dd0d2c568c2cec32966def681ef
 )
