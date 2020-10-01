@@ -12,7 +12,7 @@ hunter_add_version(
     VERSION
     "2.4.1-p0"
     URL
-    "https://github.com/hunter-packages/protobuf/archive/v2.4.1-p0.tar.gz"
+    "https://github.com/cpp-pm/protobuf/archive/v2.4.1-p0.tar.gz"
     SHA1
     c57c846131f804622057d83bf44144c179613e44
 )
@@ -23,7 +23,7 @@ hunter_add_version(
     VERSION
     "3.0.0-p1"
     URL
-    "https://github.com/hunter-packages/protobuf/archive/v3.0.0-hunter-3.tar.gz"
+    "https://github.com/cpp-pm/protobuf/archive/v3.0.0-hunter-3.tar.gz"
     SHA1
     242443553ca20ab279427330e175a3c33ecbf265
 )
@@ -34,7 +34,7 @@ hunter_add_version(
     VERSION
     "3.0.0"
     URL
-    "https://github.com/hunter-packages/protobuf/archive/v3.0.0-hunter-2.tar.gz"
+    "https://github.com/cpp-pm/protobuf/archive/v3.0.0-hunter-2.tar.gz"
     SHA1
     d1fa1592e05ab6ff3e4dbbcd9dfd9768a26ba94a
 )
@@ -45,7 +45,7 @@ hunter_add_version(
     VERSION
     "3.0.0-beta-2"
     URL
-    "https://github.com/hunter-packages/protobuf/archive/v3.0.0-beta-2-hunter-1.tar.gz"
+    "https://github.com/cpp-pm/protobuf/archive/v3.0.0-beta-2-hunter-1.tar.gz"
     SHA1
     d43d0d6bbfd3b65539ca467e2bcb0f7eeeb6a9d9
 )
@@ -56,7 +56,7 @@ hunter_add_version(
     VERSION
     "3.0.0-beta-2-p1"
     URL
-    "https://github.com/hunter-packages/protobuf/archive/v3.0.0-beta-2-hunter-2.tar.gz"
+    "https://github.com/cpp-pm/protobuf/archive/v3.0.0-beta-2-hunter-2.tar.gz"
     SHA1
     f91766a391284b7ccd192fa36bc3f09449b3c202
 )
@@ -67,7 +67,7 @@ hunter_add_version(
     VERSION
     "3.1.0"
     URL
-    "https://github.com/hunter-packages/protobuf/archive/v3.1.0-hunter-4.tar.gz"
+    "https://github.com/cpp-pm/protobuf/archive/v3.1.0-hunter-4.tar.gz"
     SHA1
     8f58f2cbe6d3fae61451a5e29b703686fe4bc9d6
 )
@@ -78,7 +78,7 @@ hunter_add_version(
     VERSION
     "3.3.0"
     URL
-    "https://github.com/hunter-packages/protobuf/archive/v3.3.0-hunter-1.tar.gz"
+    "https://github.com/cpp-pm/protobuf/archive/v3.3.0-hunter-1.tar.gz"
     SHA1
     8815a6be8188b2d6c8002924e752018b64658748
 )
@@ -89,7 +89,7 @@ hunter_add_version(
     VERSION
     "3.5.2-p0"
     URL
-    "https://github.com/hunter-packages/protobuf/archive/v3.5.2-p0.tar.gz"
+    "https://github.com/cpp-pm/protobuf/archive/v3.5.2-p0.tar.gz"
     SHA1
     0c1eacb460266dea7cd18c2009642fa192c15b70
 )
@@ -100,7 +100,7 @@ hunter_add_version(
     VERSION
     "3.6.1.3-p0"
     URL
-    "https://github.com/hunter-packages/protobuf/archive/v3.6.1.3-p0.tar.gz"
+    "https://github.com/cpp-pm/protobuf/archive/v3.6.1.3-p0.tar.gz"
     SHA1
     5f32dcd70bed20e42cecc53058b8502298c6680a
 )
@@ -111,7 +111,7 @@ hunter_add_version(
     VERSION
     "3.6.1.3-p1"
     URL
-    "https://github.com/hunter-packages/protobuf/archive/v3.6.1.3-p1.tar.gz"
+    "https://github.com/cpp-pm/protobuf/archive/v3.6.1.3-p1.tar.gz"
     SHA1
     120e15e1cc49b3fcc4fc89503ccc1346c9978362
 )
@@ -122,7 +122,7 @@ hunter_add_version(
     VERSION
     "3.7.1-p0"
     URL
-    "https://github.com/hunter-packages/protobuf/archive/v3.7.1-p0.tar.gz"
+    "https://github.com/cpp-pm/protobuf/archive/v3.7.1-p0.tar.gz"
     SHA1
 	6bfa8d5525039efdf63f40277b20d8d5852c89bf
 )
