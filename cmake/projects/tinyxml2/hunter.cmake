@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "6.2.0-p1"
     URL
-    "https://github.com/hunter-packages/tinyxml2/archive/v6.2.0-p1.tar.gz"
+    "https://github.com/cpp-pm/tinyxml2/archive/v6.2.0-p1.tar.gz"
     SHA1
     "a457140cf6d889d71280433127eaac89cf04c94a"
 )
