@@ -13,7 +13,7 @@ hunter_add_version(
     VERSION
     "1.1.1-hunter"
     URL
-    "https://github.com/hunter-packages/igloo/archive/v1.1.1-hunter.tar.gz"
+    "https://github.com/cpp-pm/igloo/archive/v1.1.1-hunter.tar.gz"
     SHA1
     c814809c68d90d3554aa17f4f4de72b85cdc83ec
 )
