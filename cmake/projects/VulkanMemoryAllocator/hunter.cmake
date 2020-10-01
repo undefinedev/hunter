@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     2.1.0-p0
     URL
-    "https://github.com/hunter-packages/VulkanMemoryAllocator/archive/v2.1.0-p0.tar.gz"
+    "https://github.com/cpp-pm/VulkanMemoryAllocator/archive/v2.1.0-p0.tar.gz"
     SHA1
     3c09ea611290039ee58baa8971da424f46a4534c
 )
@@ -25,7 +25,7 @@ hunter_add_version(
     VERSION
     2.0.0-p0
     URL
-    "https://github.com/hunter-packages/VulkanMemoryAllocator/archive/v2.0.0-p0.tar.gz"
+    "https://github.com/cpp-pm/VulkanMemoryAllocator/archive/v2.0.0-p0.tar.gz"
     SHA1
     f3b38054d2062563cf7cca66bd2e3fc8b9df832d
 )
