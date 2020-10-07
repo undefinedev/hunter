@@ -1,6 +1,7 @@
 .. spelling::
 
-    jpeg-compressor
+    jpeg
+    compressor
 
 .. index::
   single: media ; jpeg-compressor
