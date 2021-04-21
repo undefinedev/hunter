@@ -1,0 +1,1942 @@
+[
+    {
+        "id": 2402577120,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3MTIw",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577120",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577120",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-21T16:55:53Z",
+        "completed_at": "2021-04-21T16:56:30Z",
+        "name": "libjpeg-turbo analyze-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:55:53.000Z",
+                "completed_at": "2021-04-21T16:55:55.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:55:55.000Z",
+                "completed_at": "2021-04-21T16:56:03.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:56:03.000Z",
+                "completed_at": "2021-04-21T16:56:03.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-21T16:56:03.000Z",
+                "completed_at": "2021-04-21T16:56:03.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-21T16:56:03.000Z",
+                "completed_at": "2021-04-21T16:56:03.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:56:03.000Z",
+                "completed_at": "2021-04-21T16:56:03.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-21T16:56:03.000Z",
+                "completed_at": "2021-04-21T16:56:29.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-21T16:56:29.000Z",
+                "completed_at": "2021-04-21T16:56:29.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T16:56:29.000Z",
+                "completed_at": "2021-04-21T16:56:30.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T16:56:30.000Z",
+                "completed_at": "2021-04-21T16:56:30.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577120"
+    },
+    {
+        "id": 2402577096,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3MDk2",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577096",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577096",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-04-21T16:55:53Z",
+        "completed_at": "2021-04-21T16:58:35Z",
+        "name": "libjpeg-turbo android-ndk-r17-api-24-arm64-v8a-clang-libcxx14 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:55:53.000Z",
+                "completed_at": "2021-04-21T16:55:56.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:55:56.000Z",
+                "completed_at": "2021-04-21T16:56:01.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:56:01.000Z",
+                "completed_at": "2021-04-21T16:56:01.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-21T16:56:01.000Z",
+                "completed_at": "2021-04-21T16:56:01.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-21T16:56:01.000Z",
+                "completed_at": "2021-04-21T16:56:01.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:56:01.000Z",
+                "completed_at": "2021-04-21T16:56:01.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2021-04-21T16:56:01.000Z",
+                "completed_at": "2021-04-21T16:58:35.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-21T16:58:35.000Z",
+                "completed_at": "2021-04-21T16:58:35.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T16:58:35.000Z",
+                "completed_at": "2021-04-21T16:58:35.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T16:58:35.000Z",
+                "completed_at": "2021-04-21T16:58:35.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577096"
+    },
+    {
+        "id": 2402576959,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc2OTU5",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402576959",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402576959",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-04-21T16:55:52Z",
+        "completed_at": "2021-04-21T16:57:56Z",
+        "name": "libjpeg-turbo clang-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:55:52.000Z",
+                "completed_at": "2021-04-21T16:55:54.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:55:54.000Z",
+                "completed_at": "2021-04-21T16:55:58.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:55:58.000Z",
+                "completed_at": "2021-04-21T16:55:58.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-21T16:55:58.000Z",
+                "completed_at": "2021-04-21T16:55:58.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-21T16:55:58.000Z",
+                "completed_at": "2021-04-21T16:55:58.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:55:58.000Z",
+                "completed_at": "2021-04-21T16:55:58.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2021-04-21T16:55:58.000Z",
+                "completed_at": "2021-04-21T16:57:56.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-21T16:57:56.000Z",
+                "completed_at": "2021-04-21T16:57:56.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T16:57:56.000Z",
+                "completed_at": "2021-04-21T16:57:56.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T16:57:56.000Z",
+                "completed_at": "2021-04-21T16:57:56.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402576959"
+    },
+    {
+        "id": 2402576980,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc2OTgw",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402576980",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402576980",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-04-21T16:55:53Z",
+        "completed_at": "2021-04-21T16:58:13Z",
+        "name": "libjpeg-turbo gcc-7-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:55:53.000Z",
+                "completed_at": "2021-04-21T16:55:55.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:55:55.000Z",
+                "completed_at": "2021-04-21T16:56:00.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:56:00.000Z",
+                "completed_at": "2021-04-21T16:56:00.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-21T16:56:00.000Z",
+                "completed_at": "2021-04-21T16:56:00.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-21T16:56:00.000Z",
+                "completed_at": "2021-04-21T16:56:00.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:56:00.000Z",
+                "completed_at": "2021-04-21T16:56:00.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2021-04-21T16:56:00.000Z",
+                "completed_at": "2021-04-21T16:58:13.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-21T16:58:13.000Z",
+                "completed_at": "2021-04-21T16:58:13.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T16:58:13.000Z",
+                "completed_at": "2021-04-21T16:58:13.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T16:58:13.000Z",
+                "completed_at": "2021-04-21T16:58:13.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402576980"
+    },
+    {
+        "id": 2402577041,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3MDQx",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577041",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577041",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-04-21T16:55:54Z",
+        "completed_at": "2021-04-21T16:58:42Z",
+        "name": "libjpeg-turbo gcc-8-cxx17-fpic ubuntu-18.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:55:54.000Z",
+                "completed_at": "2021-04-21T16:55:57.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:55:57.000Z",
+                "completed_at": "2021-04-21T16:56:02.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:56:02.000Z",
+                "completed_at": "2021-04-21T16:56:03.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-21T16:56:03.000Z",
+                "completed_at": "2021-04-21T16:56:03.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-21T16:56:03.000Z",
+                "completed_at": "2021-04-21T16:56:03.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:56:03.000Z",
+                "completed_at": "2021-04-21T16:56:03.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2021-04-21T16:56:03.000Z",
+                "completed_at": "2021-04-21T16:58:42.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-21T16:58:42.000Z",
+                "completed_at": "2021-04-21T16:58:42.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T16:58:42.000Z",
+                "completed_at": "2021-04-21T16:58:42.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T16:58:42.000Z",
+                "completed_at": "2021-04-21T16:58:42.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577041"
+    },
+    {
+        "id": 2402577075,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3MDc1",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577075",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577075",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-04-21T16:55:53Z",
+        "completed_at": "2021-04-21T16:58:06Z",
+        "name": "libjpeg-turbo gcc-9-cxx17-fpic ubuntu-20.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:55:53.000Z",
+                "completed_at": "2021-04-21T16:55:55.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:55:55.000Z",
+                "completed_at": "2021-04-21T16:55:59.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:55:59.000Z",
+                "completed_at": "2021-04-21T16:55:59.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-21T16:55:59.000Z",
+                "completed_at": "2021-04-21T16:55:59.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-21T16:55:59.000Z",
+                "completed_at": "2021-04-21T16:55:59.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:55:59.000Z",
+                "completed_at": "2021-04-21T16:55:59.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2021-04-21T16:55:59.000Z",
+                "completed_at": "2021-04-21T16:58:06.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-21T16:58:06.000Z",
+                "completed_at": "2021-04-21T16:58:06.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T16:58:06.000Z",
+                "completed_at": "2021-04-21T16:58:06.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T16:58:06.000Z",
+                "completed_at": "2021-04-21T16:58:06.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577075"
+    },
+    {
+        "id": 2402577398,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3Mzk4",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577398",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577398",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-21T16:55:58Z",
+        "completed_at": "2021-04-21T16:56:48Z",
+        "name": "libjpeg-turbo ios-nocodesign-13-2-dep-9-3 macos-10.15",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:55:58.000Z",
+                "completed_at": "2021-04-21T16:56:01.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:56:01.000Z",
+                "completed_at": "2021-04-21T16:56:08.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:56:08.000Z",
+                "completed_at": "2021-04-21T16:56:09.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-21T16:56:09.000Z",
+                "completed_at": "2021-04-21T16:56:09.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-21T16:56:09.000Z",
+                "completed_at": "2021-04-21T16:56:09.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:56:09.000Z",
+                "completed_at": "2021-04-21T16:56:09.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-21T16:56:09.000Z",
+                "completed_at": "2021-04-21T16:56:47.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-21T16:56:47.000Z",
+                "completed_at": "2021-04-21T16:56:47.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T16:56:47.000Z",
+                "completed_at": "2021-04-21T16:56:48.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T16:56:48.000Z",
+                "completed_at": "2021-04-21T16:56:48.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577398"
+    },
+    {
+        "id": 2402577731,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3NzMx",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577731",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577731",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-04-21T16:56:05Z",
+        "completed_at": "2021-04-21T17:00:22Z",
+        "name": "libjpeg-turbo mingw-cxx17 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:56:05.000Z",
+                "completed_at": "2021-04-21T16:56:07.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:56:07.000Z",
+                "completed_at": "2021-04-21T16:56:31.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:56:31.000Z",
+                "completed_at": "2021-04-21T16:56:31.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-04-21T16:56:31.000Z",
+                "completed_at": "2021-04-21T16:56:31.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-04-21T16:56:31.000Z",
+                "completed_at": "2021-04-21T16:56:32.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:56:32.000Z",
+                "completed_at": "2021-04-21T16:56:32.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-04-21T16:56:32.000Z",
+                "completed_at": "2021-04-21T16:56:32.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2021-04-21T16:56:32.000Z",
+                "completed_at": "2021-04-21T17:00:13.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T17:00:13.000Z",
+                "completed_at": "2021-04-21T17:00:22.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T17:00:22.000Z",
+                "completed_at": "2021-04-21T17:00:22.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577731"
+    },
+    {
+        "id": 2402577767,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3NzY3",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577767",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577767",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-04-21T16:55:53Z",
+        "completed_at": "2021-04-21T17:01:56Z",
+        "name": "libjpeg-turbo msys-cxx17 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:55:53.000Z",
+                "completed_at": "2021-04-21T16:55:57.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:55:57.000Z",
+                "completed_at": "2021-04-21T16:56:21.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:56:21.000Z",
+                "completed_at": "2021-04-21T16:56:22.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-04-21T16:56:22.000Z",
+                "completed_at": "2021-04-21T16:56:22.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-04-21T16:56:22.000Z",
+                "completed_at": "2021-04-21T16:56:23.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:56:23.000Z",
+                "completed_at": "2021-04-21T16:56:23.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-04-21T16:56:23.000Z",
+                "completed_at": "2021-04-21T16:56:23.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2021-04-21T16:56:23.000Z",
+                "completed_at": "2021-04-21T17:01:47.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T17:01:47.000Z",
+                "completed_at": "2021-04-21T17:01:56.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T17:01:56.000Z",
+                "completed_at": "2021-04-21T17:01:56.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577767"
+    },
+    {
+        "id": 2402577452,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3NDUy",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577452",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577452",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-04-21T16:55:55Z",
+        "completed_at": "2021-04-21T16:59:57Z",
+        "name": "libjpeg-turbo ninja-vs-15-2017-win64-cxx17 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:55:55.000Z",
+                "completed_at": "2021-04-21T16:55:57.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:55:57.000Z",
+                "completed_at": "2021-04-21T16:56:20.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:56:20.000Z",
+                "completed_at": "2021-04-21T16:56:20.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-04-21T16:56:20.000Z",
+                "completed_at": "2021-04-21T16:56:20.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-04-21T16:56:20.000Z",
+                "completed_at": "2021-04-21T16:56:21.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:56:21.000Z",
+                "completed_at": "2021-04-21T16:56:22.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-04-21T16:56:22.000Z",
+                "completed_at": "2021-04-21T16:56:22.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2021-04-21T16:56:22.000Z",
+                "completed_at": "2021-04-21T16:59:48.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T16:59:48.000Z",
+                "completed_at": "2021-04-21T16:59:57.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T16:59:57.000Z",
+                "completed_at": "2021-04-21T16:59:57.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577452"
+    },
+    {
+        "id": 2402577512,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3NTEy",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577512",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577512",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-04-21T16:55:55Z",
+        "completed_at": "2021-04-21T17:01:03Z",
+        "name": "libjpeg-turbo nmake-vs-15-2017-win64-cxx17 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:55:55.000Z",
+                "completed_at": "2021-04-21T16:55:58.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:55:58.000Z",
+                "completed_at": "2021-04-21T16:56:23.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:56:23.000Z",
+                "completed_at": "2021-04-21T16:56:23.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-04-21T16:56:23.000Z",
+                "completed_at": "2021-04-21T16:56:23.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-04-21T16:56:23.000Z",
+                "completed_at": "2021-04-21T16:56:24.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:56:24.000Z",
+                "completed_at": "2021-04-21T16:56:25.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-04-21T16:56:25.000Z",
+                "completed_at": "2021-04-21T16:56:25.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2021-04-21T16:56:25.000Z",
+                "completed_at": "2021-04-21T17:00:53.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T17:00:53.000Z",
+                "completed_at": "2021-04-21T17:01:03.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T17:01:03.000Z",
+                "completed_at": "2021-04-21T17:01:03.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577512"
+    },
+    {
+        "id": 2402577302,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3MzAy",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577302",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577302",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-21T16:56:03Z",
+        "completed_at": "2021-04-21T16:59:55Z",
+        "name": "libjpeg-turbo osx-10-13-cxx14 macos-10.15",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:56:03.000Z",
+                "completed_at": "2021-04-21T16:56:06.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:56:06.000Z",
+                "completed_at": "2021-04-21T16:56:13.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:56:13.000Z",
+                "completed_at": "2021-04-21T16:56:13.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-21T16:56:13.000Z",
+                "completed_at": "2021-04-21T16:56:13.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-21T16:56:13.000Z",
+                "completed_at": "2021-04-21T16:56:13.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:56:13.000Z",
+                "completed_at": "2021-04-21T16:56:14.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-21T16:56:14.000Z",
+                "completed_at": "2021-04-21T16:59:54.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-21T16:59:54.000Z",
+                "completed_at": "2021-04-21T16:59:54.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T16:59:54.000Z",
+                "completed_at": "2021-04-21T16:59:54.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T16:59:54.000Z",
+                "completed_at": "2021-04-21T16:59:55.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577302"
+    },
+    {
+        "id": 2402577271,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3Mjcx",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577271",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577271",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-21T16:56:02Z",
+        "completed_at": "2021-04-21T17:01:33Z",
+        "name": "libjpeg-turbo osx-10-13-make-cxx14 macos-10.15",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:56:02.000Z",
+                "completed_at": "2021-04-21T16:56:05.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:56:05.000Z",
+                "completed_at": "2021-04-21T16:56:12.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:56:12.000Z",
+                "completed_at": "2021-04-21T16:56:12.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-21T16:56:12.000Z",
+                "completed_at": "2021-04-21T16:56:12.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-21T16:56:12.000Z",
+                "completed_at": "2021-04-21T16:56:12.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:56:12.000Z",
+                "completed_at": "2021-04-21T16:56:12.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-21T16:56:12.000Z",
+                "completed_at": "2021-04-21T17:01:32.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-21T17:01:32.000Z",
+                "completed_at": "2021-04-21T17:01:32.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T17:01:32.000Z",
+                "completed_at": "2021-04-21T17:01:33.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T17:01:33.000Z",
+                "completed_at": "2021-04-21T17:01:33.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577271"
+    },
+    {
+        "id": 2402577361,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3MzYx",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577361",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577361",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-04-21T16:57:06Z",
+        "completed_at": "2021-04-21T17:03:10Z",
+        "name": "libjpeg-turbo osx-10-15-dep-10-10-cxx17 macos-10.15",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:57:06.000Z",
+                "completed_at": "2021-04-21T16:57:09.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:57:09.000Z",
+                "completed_at": "2021-04-21T16:57:16.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:57:16.000Z",
+                "completed_at": "2021-04-21T16:57:17.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-21T16:57:17.000Z",
+                "completed_at": "2021-04-21T16:57:17.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-21T16:57:17.000Z",
+                "completed_at": "2021-04-21T16:57:17.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:57:17.000Z",
+                "completed_at": "2021-04-21T16:57:17.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-04-21T16:57:17.000Z",
+                "completed_at": "2021-04-21T17:03:09.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-21T17:03:09.000Z",
+                "completed_at": "2021-04-21T17:03:09.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T17:03:09.000Z",
+                "completed_at": "2021-04-21T17:03:10.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T17:03:10.000Z",
+                "completed_at": "2021-04-21T17:03:10.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577361"
+    },
+    {
+        "id": 2402577148,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3MTQ4",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577148",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577148",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-04-21T16:56:05Z",
+        "completed_at": "2021-04-21T16:58:24Z",
+        "name": "libjpeg-turbo sanitize-address-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:56:05.000Z",
+                "completed_at": "2021-04-21T16:56:08.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:56:08.000Z",
+                "completed_at": "2021-04-21T16:56:13.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:56:13.000Z",
+                "completed_at": "2021-04-21T16:56:13.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-21T16:56:13.000Z",
+                "completed_at": "2021-04-21T16:56:13.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-21T16:56:13.000Z",
+                "completed_at": "2021-04-21T16:56:13.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:56:13.000Z",
+                "completed_at": "2021-04-21T16:56:13.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2021-04-21T16:56:13.000Z",
+                "completed_at": "2021-04-21T16:58:24.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-21T16:58:24.000Z",
+                "completed_at": "2021-04-21T16:58:24.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T16:58:24.000Z",
+                "completed_at": "2021-04-21T16:58:24.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T16:58:24.000Z",
+                "completed_at": "2021-04-21T16:58:24.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577148"
+    },
+    {
+        "id": 2402577185,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3MTg1",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577185",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577185",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-04-21T16:55:55Z",
+        "completed_at": "2021-04-21T16:59:41Z",
+        "name": "libjpeg-turbo sanitize-leak-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:55:55.000Z",
+                "completed_at": "2021-04-21T16:55:57.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:55:57.000Z",
+                "completed_at": "2021-04-21T16:56:02.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:56:02.000Z",
+                "completed_at": "2021-04-21T16:56:02.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-21T16:56:02.000Z",
+                "completed_at": "2021-04-21T16:56:02.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-21T16:56:02.000Z",
+                "completed_at": "2021-04-21T16:56:02.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:56:02.000Z",
+                "completed_at": "2021-04-21T16:56:03.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2021-04-21T16:56:03.000Z",
+                "completed_at": "2021-04-21T16:59:41.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-21T16:59:41.000Z",
+                "completed_at": "2021-04-21T16:59:41.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T16:59:41.000Z",
+                "completed_at": "2021-04-21T16:59:41.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T16:59:41.000Z",
+                "completed_at": "2021-04-21T16:59:41.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577185"
+    },
+    {
+        "id": 2402577231,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3MjMx",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577231",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577231",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-04-21T16:55:53Z",
+        "completed_at": "2021-04-21T16:58:20Z",
+        "name": "libjpeg-turbo sanitize-thread-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:55:53.000Z",
+                "completed_at": "2021-04-21T16:55:56.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:55:56.000Z",
+                "completed_at": "2021-04-21T16:55:59.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:55:59.000Z",
+                "completed_at": "2021-04-21T16:56:00.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-04-21T16:56:00.000Z",
+                "completed_at": "2021-04-21T16:56:00.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-04-21T16:56:00.000Z",
+                "completed_at": "2021-04-21T16:56:00.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:56:00.000Z",
+                "completed_at": "2021-04-21T16:56:00.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2021-04-21T16:56:00.000Z",
+                "completed_at": "2021-04-21T16:58:20.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-04-21T16:58:20.000Z",
+                "completed_at": "2021-04-21T16:58:20.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T16:58:20.000Z",
+                "completed_at": "2021-04-21T16:58:20.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T16:58:20.000Z",
+                "completed_at": "2021-04-21T16:58:20.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577231"
+    },
+    {
+        "id": 2402577701,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3NzAx",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577701",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577701",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-04-21T16:56:38Z",
+        "completed_at": "2021-04-21T17:03:40Z",
+        "name": "libjpeg-turbo vs-14-2015-sdk-8-1 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:56:38.000Z",
+                "completed_at": "2021-04-21T16:56:39.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:56:39.000Z",
+                "completed_at": "2021-04-21T16:56:58.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:56:58.000Z",
+                "completed_at": "2021-04-21T16:56:58.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-04-21T16:56:58.000Z",
+                "completed_at": "2021-04-21T16:56:58.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-04-21T16:56:58.000Z",
+                "completed_at": "2021-04-21T16:56:59.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:56:59.000Z",
+                "completed_at": "2021-04-21T16:56:59.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-04-21T16:56:59.000Z",
+                "completed_at": "2021-04-21T16:56:59.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2021-04-21T16:56:59.000Z",
+                "completed_at": "2021-04-21T17:03:33.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T17:03:33.000Z",
+                "completed_at": "2021-04-21T17:03:39.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T17:03:39.000Z",
+                "completed_at": "2021-04-21T17:03:40.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577701"
+    },
+    {
+        "id": 2402577663,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3NjYz",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577663",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577663",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-04-21T16:56:41Z",
+        "completed_at": "2021-04-21T17:04:02Z",
+        "name": "libjpeg-turbo vs-15-2017-win64-cxx17 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:56:41.000Z",
+                "completed_at": "2021-04-21T16:56:45.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:56:45.000Z",
+                "completed_at": "2021-04-21T16:57:07.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:57:07.000Z",
+                "completed_at": "2021-04-21T16:57:07.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-04-21T16:57:07.000Z",
+                "completed_at": "2021-04-21T16:57:07.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-04-21T16:57:07.000Z",
+                "completed_at": "2021-04-21T16:57:09.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:57:09.000Z",
+                "completed_at": "2021-04-21T16:57:09.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-04-21T16:57:09.000Z",
+                "completed_at": "2021-04-21T16:57:09.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2021-04-21T16:57:09.000Z",
+                "completed_at": "2021-04-21T17:03:53.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T17:03:53.000Z",
+                "completed_at": "2021-04-21T17:04:02.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T17:04:02.000Z",
+                "completed_at": "2021-04-21T17:04:02.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577663"
+    },
+    {
+        "id": 2402577634,
+        "run_id": 771417087,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/771417087",
+        "node_id": "MDg6Q2hlY2tSdW4yNDAyNTc3NjM0",
+        "head_sha": "8a2905f1396acbff1de05d181db106acd1073a8e",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2402577634",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2402577634",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-04-21T16:57:02Z",
+        "completed_at": "2021-04-21T17:02:48Z",
+        "name": "libjpeg-turbo vs-16-2019-win64-cxx17 windows-2019",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-04-21T16:57:02.000Z",
+                "completed_at": "2021-04-21T16:57:05.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-04-21T16:57:05.000Z",
+                "completed_at": "2021-04-21T16:57:21.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-04-21T16:57:21.000Z",
+                "completed_at": "2021-04-21T16:57:22.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-04-21T16:57:22.000Z",
+                "completed_at": "2021-04-21T16:57:22.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-04-21T16:57:22.000Z",
+                "completed_at": "2021-04-21T16:57:23.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-04-21T16:57:23.000Z",
+                "completed_at": "2021-04-21T16:57:23.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-04-21T16:57:23.000Z",
+                "completed_at": "2021-04-21T16:57:23.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2021-04-21T16:57:23.000Z",
+                "completed_at": "2021-04-21T17:02:45.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-04-21T17:02:45.000Z",
+                "completed_at": "2021-04-21T17:02:48.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-04-21T17:02:48.000Z",
+                "completed_at": "2021-04-21T17:02:48.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2402577634"
+    }
+]
