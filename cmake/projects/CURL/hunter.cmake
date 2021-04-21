@@ -98,6 +98,17 @@ hunter_add_version(
     c15efe3c6c77c5f5d5b098b73d31cc3fbbc0d2fc
 )
 
+hunter_add_version(
+    PACKAGE_NAME
+    CURL
+    VERSION
+    "7.74.0-p1"
+    URL
+    "https://github.com/cpp-pm/curl/archive/refs/tags/v7.74.0-p1.tar.gz"
+    SHA1
+    1e31cd92945f538f8f284ec957fd878628da451b
+)
+
 if (ANDROID OR IOS OR RASPBERRY_PI OR OPENWRT)
   set(_curl_cmake_args
       HAVE_FSETXATTR_5=0
