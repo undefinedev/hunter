@@ -1,0 +1,2039 @@
+[
+    {
+        "id": 2956810158,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwMTU4",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810158",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810158",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-06-30T21:45:52Z",
+        "completed_at": "2021-06-30T21:46:13Z",
+        "name": "dfdutils analyze-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:45:52.000Z",
+                "completed_at": "2021-06-30T21:45:54.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:45:54.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:46:13.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-06-30T21:46:13.000Z",
+                "completed_at": "2021-06-30T21:46:13.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:46:13.000Z",
+                "completed_at": "2021-06-30T21:46:13.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:46:13.000Z",
+                "completed_at": "2021-06-30T21:46:13.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810158"
+    },
+    {
+        "id": 2956810122,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwMTIy",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810122",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810122",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-06-30T21:45:53Z",
+        "completed_at": "2021-06-30T21:48:17Z",
+        "name": "dfdutils android-ndk-r17-api-24-arm64-v8a-clang-libcxx14 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:45:53.000Z",
+                "completed_at": "2021-06-30T21:45:56.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:45:56.000Z",
+                "completed_at": "2021-06-30T21:46:01.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:46:01.000Z",
+                "completed_at": "2021-06-30T21:46:02.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-06-30T21:46:02.000Z",
+                "completed_at": "2021-06-30T21:46:02.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-06-30T21:46:02.000Z",
+                "completed_at": "2021-06-30T21:46:02.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:46:02.000Z",
+                "completed_at": "2021-06-30T21:46:02.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2021-06-30T21:46:02.000Z",
+                "completed_at": "2021-06-30T21:48:17.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-06-30T21:48:17.000Z",
+                "completed_at": "2021-06-30T21:48:17.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:48:17.000Z",
+                "completed_at": "2021-06-30T21:48:17.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:48:17.000Z",
+                "completed_at": "2021-06-30T21:48:17.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810122"
+    },
+    {
+        "id": 2956809985,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODA5OTg1",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956809985",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956809985",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-06-30T21:45:53Z",
+        "completed_at": "2021-06-30T21:46:11Z",
+        "name": "dfdutils clang-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:45:53.000Z",
+                "completed_at": "2021-06-30T21:45:55.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:45:55.000Z",
+                "completed_at": "2021-06-30T21:45:59.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:45:59.000Z",
+                "completed_at": "2021-06-30T21:45:59.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-06-30T21:45:59.000Z",
+                "completed_at": "2021-06-30T21:45:59.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-06-30T21:45:59.000Z",
+                "completed_at": "2021-06-30T21:45:59.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:45:59.000Z",
+                "completed_at": "2021-06-30T21:45:59.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-06-30T21:45:59.000Z",
+                "completed_at": "2021-06-30T21:46:11.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-06-30T21:46:11.000Z",
+                "completed_at": "2021-06-30T21:46:11.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:46:11.000Z",
+                "completed_at": "2021-06-30T21:46:11.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:46:11.000Z",
+                "completed_at": "2021-06-30T21:46:11.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956809985"
+    },
+    {
+        "id": 2956810013,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwMDEz",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810013",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810013",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-06-30T21:45:52Z",
+        "completed_at": "2021-06-30T21:46:31Z",
+        "name": "dfdutils gcc-7-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:45:52.000Z",
+                "completed_at": "2021-06-30T21:45:54.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:45:54.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:46:31.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-06-30T21:46:31.000Z",
+                "completed_at": "2021-06-30T21:46:31.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:46:31.000Z",
+                "completed_at": "2021-06-30T21:46:31.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:46:31.000Z",
+                "completed_at": "2021-06-30T21:46:31.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810013"
+    },
+    {
+        "id": 2956810038,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwMDM4",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810038",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810038",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-06-30T21:45:54Z",
+        "completed_at": "2021-06-30T21:47:59Z",
+        "name": "dfdutils gcc-8-cxx17-fpic ubuntu-18.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:45:54.000Z",
+                "completed_at": "2021-06-30T21:45:56.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:45:56.000Z",
+                "completed_at": "2021-06-30T21:46:05.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:46:05.000Z",
+                "completed_at": "2021-06-30T21:46:05.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-06-30T21:46:05.000Z",
+                "completed_at": "2021-06-30T21:46:05.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-06-30T21:46:05.000Z",
+                "completed_at": "2021-06-30T21:46:05.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:46:05.000Z",
+                "completed_at": "2021-06-30T21:46:05.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2021-06-30T21:46:05.000Z",
+                "completed_at": "2021-06-30T21:47:59.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-06-30T21:47:59.000Z",
+                "completed_at": "2021-06-30T21:47:59.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:47:59.000Z",
+                "completed_at": "2021-06-30T21:47:59.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:47:59.000Z",
+                "completed_at": "2021-06-30T21:47:59.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810038"
+    },
+    {
+        "id": 2956810071,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwMDcx",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810071",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810071",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-06-30T21:45:52Z",
+        "completed_at": "2021-06-30T21:47:36Z",
+        "name": "dfdutils gcc-9-cxx17-fpic ubuntu-20.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:45:52.000Z",
+                "completed_at": "2021-06-30T21:45:55.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:45:55.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:45:59.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-06-30T21:45:59.000Z",
+                "completed_at": "2021-06-30T21:45:59.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-06-30T21:45:59.000Z",
+                "completed_at": "2021-06-30T21:45:59.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:45:59.000Z",
+                "completed_at": "2021-06-30T21:45:59.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2021-06-30T21:45:59.000Z",
+                "completed_at": "2021-06-30T21:47:36.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-06-30T21:47:36.000Z",
+                "completed_at": "2021-06-30T21:47:36.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:47:36.000Z",
+                "completed_at": "2021-06-30T21:47:36.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:47:36.000Z",
+                "completed_at": "2021-06-30T21:47:36.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810071"
+    },
+    {
+        "id": 2956810393,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwMzkz",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810393",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810393",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-06-30T21:45:58Z",
+        "completed_at": "2021-06-30T21:46:47Z",
+        "name": "dfdutils ios-nocodesign-13-2-dep-9-3 macos-10.15",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:46:00.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:46:00.000Z",
+                "completed_at": "2021-06-30T21:46:08.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:46:08.000Z",
+                "completed_at": "2021-06-30T21:46:08.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-06-30T21:46:08.000Z",
+                "completed_at": "2021-06-30T21:46:09.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-06-30T21:46:09.000Z",
+                "completed_at": "2021-06-30T21:46:09.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:46:09.000Z",
+                "completed_at": "2021-06-30T21:46:09.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-06-30T21:46:09.000Z",
+                "completed_at": "2021-06-30T21:46:46.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-06-30T21:46:46.000Z",
+                "completed_at": "2021-06-30T21:46:46.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:46:46.000Z",
+                "completed_at": "2021-06-30T21:46:47.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:46:47.000Z",
+                "completed_at": "2021-06-30T21:46:47.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810393"
+    },
+    {
+        "id": 2956810550,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwNTUw",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810550",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810550",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-06-30T21:45:53Z",
+        "completed_at": "2021-06-30T21:47:25Z",
+        "name": "dfdutils mingw-cxx17 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:45:53.000Z",
+                "completed_at": "2021-06-30T21:45:56.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:45:56.000Z",
+                "completed_at": "2021-06-30T21:46:20.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:46:20.000Z",
+                "completed_at": "2021-06-30T21:46:20.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-06-30T21:46:20.000Z",
+                "completed_at": "2021-06-30T21:46:20.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-06-30T21:46:20.000Z",
+                "completed_at": "2021-06-30T21:46:21.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:46:21.000Z",
+                "completed_at": "2021-06-30T21:46:22.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-06-30T21:46:22.000Z",
+                "completed_at": "2021-06-30T21:46:22.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 8,
+                "started_at": "2021-06-30T21:46:22.000Z",
+                "completed_at": "2021-06-30T21:47:15.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:47:15.000Z",
+                "completed_at": "2021-06-30T21:47:25.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:47:25.000Z",
+                "completed_at": "2021-06-30T21:47:25.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810550"
+    },
+    {
+        "id": 2956810576,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwNTc2",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810576",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810576",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-06-30T21:45:55Z",
+        "completed_at": "2021-06-30T21:49:27Z",
+        "name": "dfdutils msys-cxx17 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:45:55.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:46:31.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:46:31.000Z",
+                "completed_at": "2021-06-30T21:46:31.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-06-30T21:46:31.000Z",
+                "completed_at": "2021-06-30T21:46:31.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-06-30T21:46:31.000Z",
+                "completed_at": "2021-06-30T21:46:32.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:46:32.000Z",
+                "completed_at": "2021-06-30T21:46:33.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-06-30T21:46:33.000Z",
+                "completed_at": "2021-06-30T21:46:33.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 8,
+                "started_at": "2021-06-30T21:46:33.000Z",
+                "completed_at": "2021-06-30T21:49:18.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:49:18.000Z",
+                "completed_at": "2021-06-30T21:49:27.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:49:27.000Z",
+                "completed_at": "2021-06-30T21:49:27.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810576"
+    },
+    {
+        "id": 2956810412,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwNDEy",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810412",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810412",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-06-30T21:45:53Z",
+        "completed_at": "2021-06-30T21:50:03Z",
+        "name": "dfdutils ninja-vs-15-2017-win64-cxx17 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:45:53.000Z",
+                "completed_at": "2021-06-30T21:45:54.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:45:54.000Z",
+                "completed_at": "2021-06-30T21:46:29.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:46:29.000Z",
+                "completed_at": "2021-06-30T21:46:30.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-06-30T21:46:30.000Z",
+                "completed_at": "2021-06-30T21:46:30.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-06-30T21:46:30.000Z",
+                "completed_at": "2021-06-30T21:46:31.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:46:31.000Z",
+                "completed_at": "2021-06-30T21:46:31.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-06-30T21:46:31.000Z",
+                "completed_at": "2021-06-30T21:46:31.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2021-06-30T21:46:31.000Z",
+                "completed_at": "2021-06-30T21:49:54.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:49:54.000Z",
+                "completed_at": "2021-06-30T21:50:02.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:50:02.000Z",
+                "completed_at": "2021-06-30T21:50:03.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810412"
+    },
+    {
+        "id": 2956810436,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwNDM2",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810436",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810436",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-06-30T21:45:52Z",
+        "completed_at": "2021-06-30T21:49:03Z",
+        "name": "dfdutils nmake-vs-15-2017-win64-cxx17 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:45:52.000Z",
+                "completed_at": "2021-06-30T21:45:54.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:45:54.000Z",
+                "completed_at": "2021-06-30T21:46:12.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:46:12.000Z",
+                "completed_at": "2021-06-30T21:46:13.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-06-30T21:46:13.000Z",
+                "completed_at": "2021-06-30T21:46:13.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-06-30T21:46:13.000Z",
+                "completed_at": "2021-06-30T21:46:14.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:46:14.000Z",
+                "completed_at": "2021-06-30T21:46:14.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-06-30T21:46:14.000Z",
+                "completed_at": "2021-06-30T21:46:14.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2021-06-30T21:46:14.000Z",
+                "completed_at": "2021-06-30T21:48:56.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:48:56.000Z",
+                "completed_at": "2021-06-30T21:49:03.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:49:03.000Z",
+                "completed_at": "2021-06-30T21:49:03.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810436"
+    },
+    {
+        "id": 2956810314,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwMzE0",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810314",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810314",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-06-30T21:46:46Z",
+        "completed_at": "2021-06-30T21:48:46Z",
+        "name": "dfdutils osx-10-13-cxx14 macos-10.15",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:46:46.000Z",
+                "completed_at": "2021-06-30T21:46:48.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:46:49.000Z",
+                "completed_at": "2021-06-30T21:46:54.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:46:54.000Z",
+                "completed_at": "2021-06-30T21:46:54.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-06-30T21:46:54.000Z",
+                "completed_at": "2021-06-30T21:46:55.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-06-30T21:46:55.000Z",
+                "completed_at": "2021-06-30T21:46:55.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:46:55.000Z",
+                "completed_at": "2021-06-30T21:46:55.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-06-30T21:46:55.000Z",
+                "completed_at": "2021-06-30T21:48:46.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-06-30T21:48:46.000Z",
+                "completed_at": "2021-06-30T21:48:46.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:48:46.000Z",
+                "completed_at": "2021-06-30T21:48:46.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:48:46.000Z",
+                "completed_at": "2021-06-30T21:48:46.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810314"
+    },
+    {
+        "id": 2956810286,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwMjg2",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810286",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810286",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-06-30T21:45:58Z",
+        "completed_at": "2021-06-30T21:46:38Z",
+        "name": "dfdutils osx-10-13-make-cxx14 macos-10.15",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:46:00.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:46:00.000Z",
+                "completed_at": "2021-06-30T21:46:06.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:46:06.000Z",
+                "completed_at": "2021-06-30T21:46:07.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-06-30T21:46:07.000Z",
+                "completed_at": "2021-06-30T21:46:07.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-06-30T21:46:07.000Z",
+                "completed_at": "2021-06-30T21:46:07.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:46:07.000Z",
+                "completed_at": "2021-06-30T21:46:07.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-06-30T21:46:07.000Z",
+                "completed_at": "2021-06-30T21:46:37.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-06-30T21:46:37.000Z",
+                "completed_at": "2021-06-30T21:46:37.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:46:37.000Z",
+                "completed_at": "2021-06-30T21:46:37.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:46:37.000Z",
+                "completed_at": "2021-06-30T21:46:38.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810286"
+    },
+    {
+        "id": 2956810347,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwMzQ3",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810347",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810347",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-06-30T21:46:00Z",
+        "completed_at": "2021-06-30T21:48:58Z",
+        "name": "dfdutils osx-10-15-dep-10-10-cxx17 macos-10.15",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:46:00.000Z",
+                "completed_at": "2021-06-30T21:46:03.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:46:03.000Z",
+                "completed_at": "2021-06-30T21:46:09.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:46:09.000Z",
+                "completed_at": "2021-06-30T21:46:09.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-06-30T21:46:09.000Z",
+                "completed_at": "2021-06-30T21:46:09.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-06-30T21:46:09.000Z",
+                "completed_at": "2021-06-30T21:46:09.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:46:09.000Z",
+                "completed_at": "2021-06-30T21:46:09.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-06-30T21:46:09.000Z",
+                "completed_at": "2021-06-30T21:48:57.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-06-30T21:48:57.000Z",
+                "completed_at": "2021-06-30T21:48:57.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:48:57.000Z",
+                "completed_at": "2021-06-30T21:48:57.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:48:57.000Z",
+                "completed_at": "2021-06-30T21:48:58.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810347"
+    },
+    {
+        "id": 2956810373,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwMzcz",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810373",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810373",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-06-30T21:46:00Z",
+        "completed_at": "2021-06-30T21:49:08Z",
+        "name": "dfdutils osx-11-0-arch-universal2 macos-10.15",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:46:00.000Z",
+                "completed_at": "2021-06-30T21:46:03.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:46:03.000Z",
+                "completed_at": "2021-06-30T21:46:09.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:46:09.000Z",
+                "completed_at": "2021-06-30T21:46:09.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-06-30T21:46:09.000Z",
+                "completed_at": "2021-06-30T21:46:09.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-06-30T21:46:09.000Z",
+                "completed_at": "2021-06-30T21:46:09.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:46:09.000Z",
+                "completed_at": "2021-06-30T21:46:09.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-06-30T21:46:09.000Z",
+                "completed_at": "2021-06-30T21:49:07.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-06-30T21:49:07.000Z",
+                "completed_at": "2021-06-30T21:49:07.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:49:07.000Z",
+                "completed_at": "2021-06-30T21:49:08.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:49:08.000Z",
+                "completed_at": "2021-06-30T21:49:08.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810373"
+    },
+    {
+        "id": 2956810187,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwMTg3",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810187",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810187",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-06-30T21:45:52Z",
+        "completed_at": "2021-06-30T21:47:32Z",
+        "name": "dfdutils sanitize-address-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:45:52.000Z",
+                "completed_at": "2021-06-30T21:45:55.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:45:55.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:45:58.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2021-06-30T21:45:58.000Z",
+                "completed_at": "2021-06-30T21:47:32.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-06-30T21:47:32.000Z",
+                "completed_at": "2021-06-30T21:47:32.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:47:32.000Z",
+                "completed_at": "2021-06-30T21:47:32.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:47:32.000Z",
+                "completed_at": "2021-06-30T21:47:32.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810187"
+    },
+    {
+        "id": 2956810227,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwMjI3",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810227",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810227",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-06-30T21:45:54Z",
+        "completed_at": "2021-06-30T21:46:24Z",
+        "name": "dfdutils sanitize-leak-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:45:54.000Z",
+                "completed_at": "2021-06-30T21:45:57.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:45:57.000Z",
+                "completed_at": "2021-06-30T21:46:05.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:46:05.000Z",
+                "completed_at": "2021-06-30T21:46:05.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-06-30T21:46:05.000Z",
+                "completed_at": "2021-06-30T21:46:05.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-06-30T21:46:05.000Z",
+                "completed_at": "2021-06-30T21:46:05.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:46:05.000Z",
+                "completed_at": "2021-06-30T21:46:05.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-06-30T21:46:05.000Z",
+                "completed_at": "2021-06-30T21:46:23.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-06-30T21:46:23.000Z",
+                "completed_at": "2021-06-30T21:46:23.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:46:23.000Z",
+                "completed_at": "2021-06-30T21:46:24.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:46:24.000Z",
+                "completed_at": "2021-06-30T21:46:24.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810227"
+    },
+    {
+        "id": 2956810255,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwMjU1",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810255",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810255",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-06-30T21:45:54Z",
+        "completed_at": "2021-06-30T21:46:21Z",
+        "name": "dfdutils sanitize-thread-cxx17 ubuntu-16.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:45:54.000Z",
+                "completed_at": "2021-06-30T21:45:56.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:45:56.000Z",
+                "completed_at": "2021-06-30T21:46:01.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:46:01.000Z",
+                "completed_at": "2021-06-30T21:46:01.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2021-06-30T21:46:01.000Z",
+                "completed_at": "2021-06-30T21:46:01.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2021-06-30T21:46:01.000Z",
+                "completed_at": "2021-06-30T21:46:01.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:46:01.000Z",
+                "completed_at": "2021-06-30T21:46:01.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 7,
+                "started_at": "2021-06-30T21:46:01.000Z",
+                "completed_at": "2021-06-30T21:46:21.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2021-06-30T21:46:21.000Z",
+                "completed_at": "2021-06-30T21:46:21.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:46:21.000Z",
+                "completed_at": "2021-06-30T21:46:21.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:46:21.000Z",
+                "completed_at": "2021-06-30T21:46:21.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810255"
+    },
+    {
+        "id": 2956810524,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwNTI0",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810524",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810524",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-06-30T21:45:54Z",
+        "completed_at": "2021-06-30T21:51:51Z",
+        "name": "dfdutils vs-14-2015-sdk-8-1 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:45:54.000Z",
+                "completed_at": "2021-06-30T21:45:55.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:45:55.000Z",
+                "completed_at": "2021-06-30T21:46:16.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:46:16.000Z",
+                "completed_at": "2021-06-30T21:46:16.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-06-30T21:46:16.000Z",
+                "completed_at": "2021-06-30T21:46:16.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-06-30T21:46:16.000Z",
+                "completed_at": "2021-06-30T21:46:17.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:46:17.000Z",
+                "completed_at": "2021-06-30T21:46:18.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-06-30T21:46:18.000Z",
+                "completed_at": "2021-06-30T21:46:18.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2021-06-30T21:46:18.000Z",
+                "completed_at": "2021-06-30T21:51:42.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:51:42.000Z",
+                "completed_at": "2021-06-30T21:51:51.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:51:51.000Z",
+                "completed_at": "2021-06-30T21:51:51.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810524"
+    },
+    {
+        "id": 2956810497,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwNDk3",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810497",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810497",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2021-06-30T21:46:22Z",
+        "completed_at": "2021-06-30T21:51:50Z",
+        "name": "dfdutils vs-15-2017-win64-cxx17 windows-2016",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:46:22.000Z",
+                "completed_at": "2021-06-30T21:46:25.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:46:25.000Z",
+                "completed_at": "2021-06-30T21:46:49.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:46:49.000Z",
+                "completed_at": "2021-06-30T21:46:49.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-06-30T21:46:49.000Z",
+                "completed_at": "2021-06-30T21:46:49.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-06-30T21:46:49.000Z",
+                "completed_at": "2021-06-30T21:46:50.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:46:50.000Z",
+                "completed_at": "2021-06-30T21:46:50.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-06-30T21:46:50.000Z",
+                "completed_at": "2021-06-30T21:46:50.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2021-06-30T21:46:50.000Z",
+                "completed_at": "2021-06-30T21:51:41.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:51:41.000Z",
+                "completed_at": "2021-06-30T21:51:50.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:51:50.000Z",
+                "completed_at": "2021-06-30T21:51:50.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810497"
+    },
+    {
+        "id": 2956810468,
+        "run_id": 987891512,
+        "run_url": "https://api.github.com/repos/cpp-pm/hunter/actions/runs/987891512",
+        "node_id": "MDg6Q2hlY2tSdW4yOTU2ODEwNDY4",
+        "head_sha": "1b352a52d0bf52f1284d2ab0830dd0b5164767b1",
+        "url": "https://api.github.com/repos/cpp-pm/hunter/actions/jobs/2956810468",
+        "html_url": "https://github.com/cpp-pm/hunter/runs/2956810468",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2021-06-30T21:46:23Z",
+        "completed_at": "2021-06-30T21:48:14Z",
+        "name": "dfdutils vs-16-2019-win64-cxx17 windows-2019",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2021-06-30T21:46:23.000Z",
+                "completed_at": "2021-06-30T21:46:25.000Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2021-06-30T21:46:25.000Z",
+                "completed_at": "2021-06-30T21:46:45.000Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2021-06-30T21:46:45.000Z",
+                "completed_at": "2021-06-30T21:46:45.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 4,
+                "started_at": "2021-06-30T21:46:45.000Z",
+                "completed_at": "2021-06-30T21:46:45.000Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2021-06-30T21:46:45.000Z",
+                "completed_at": "2021-06-30T21:46:46.000Z"
+            },
+            {
+                "name": "Extract branch name",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2021-06-30T21:46:46.000Z",
+                "completed_at": "2021-06-30T21:46:46.000Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2021-06-30T21:46:46.000Z",
+                "completed_at": "2021-06-30T21:46:46.000Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "failure",
+                "number": 8,
+                "started_at": "2021-06-30T21:46:46.000Z",
+                "completed_at": "2021-06-30T21:48:10.000Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2021-06-30T21:48:10.000Z",
+                "completed_at": "2021-06-30T21:48:13.000Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2021-06-30T21:48:13.000Z",
+                "completed_at": "2021-06-30T21:48:14.000Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/cpp-pm/hunter/check-runs/2956810468"
+    }
+]
