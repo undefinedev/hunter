@@ -47,6 +47,6 @@ if "%TOOLCHAIN:~0,5%"=="vs-14" set PATH=C:\Program Files (x86)\Microsoft Visual 
 
 set "UPLOAD="
 if "%BRANCH_NAME%" == "master" if not "%GITHUB_USER_PASSWORD%" == "" (
-    set UPLOAD=-upload
+    set UPLOAD=--upload
 )
 python jenkins.py %UPLOAD%
